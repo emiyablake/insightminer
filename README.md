@@ -1,7 +1,7 @@
 <h1 align="center"> Insight Miner </h1>
 
 <p align="center">
-Projeto de Interdiciplinar - CESUSC
+Projeto Interdiciplinar - CESUSC
 </p>
 
 
@@ -17,7 +17,7 @@ Em um mundo onde informação é poder, o InsightMiner emerge como uma ferrament
 ## 🏁 Objetivo 
 
 <p>
-    Permitir ao usuário pesquisar uma palavra-chave específica e receber uma variedade de gráficos informativos baseados em dados coletados d internet, ajudando assim a identificar tendências, sentimentos e discussões relevantes em torno do tema escolhido.
+    Permitir ao usuário pesquisar uma palavra-chave específica e receber uma variedade de gráficos informativos baseados em dados coletados da internet, ajudando assim a identificar tendências, sentimentos e discussões relevantes em torno do tema escolhido.
 </p>
 
 ## 🗺 Nicho

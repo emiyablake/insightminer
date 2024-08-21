@@ -6,34 +6,34 @@ Projeto de Interdiciplinar - CESUSC
 
 
 ## 🔍 Visão Geral
-O projeto consiste em gerar insights ao usuário sobre o que está sendo falado nas redes sociais a respeito de qualquer assunto que ele escolher.
+Em um mundo onde informação é poder, o InsightMiner emerge como uma ferramenta que capacita mudanças de perspectivas. Nossa proposta vai além da superfície dos dados, guiando os usuários na construção de insights que transcendem a compreensão convencional.
 
 ## 🌪 Problema
 
 <p>
-    Atualmente as redes sociais tem impactado diretamente a vida das pessoas. Um desses impactos é a possibilidade de gerar renda. E para isso é importante que esse público consiga entender ao máximo o que está acontencendo nas redes sociais para potencializar seus ganhos. 
+    Com a velocidade que a informação propaga nos dias de hoje, extrair insights valiosos de grandes volumes de dados pode ser desafiador sem as ferramentas adequadas.
 </p>
 
 ## 🏁 Objetivo 
 
 <p>
-    Permitir ao usuário pesquisar uma palavra específica e receber diversos gráficos de informações que estão sendo publicas nas redes sociais com base no que foi pesquisado.
+    Permitir ao usuário pesquisar uma palavra-chave específica e receber uma variedade de gráficos informativos baseados em dados coletados d internet, ajudando assim a identificar tendências, sentimentos e discussões relevantes em torno do tema escolhido.
 </p>
 
 ## 🗺 Nicho
 
-Empresas, Influenciadores e orgãos públicos.
+Empresas, Influenciadores e candidatos a cargos públicos. 
 
 ## 🔮 Proposta de Valor
 
-Gerar insights de forma visual sobre os temas que estão circulando nas redes sociais
+Gerar insights de forma visual, permitindo que nossos usuários identifiquem rapidamente oportunidades, riscos e tendências relevantes para suas necessidades.
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML, CSS, JavaSript
-- Python, SQL Server, Node.JS
+- React e Nextjs
+- Python, MongoDB
 - Git e Github
 - Figma
 
@@ -51,4 +51,4 @@ Mara Júlia e Gabriel Ratão
 ---
 
 
-2a Fase - Análise e Desenvolvimento de Sistemas (CESUSC)
+4a Fase - Análise e Desenvolvimento de Sistemas (CESUSC)

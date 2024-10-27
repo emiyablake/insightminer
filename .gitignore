@@ -1,0 +1,7 @@
+*.xml
+.idea/
+/build/
+.pytest_cache
+*.pyc
+**/_pycache_/
+_pycache_/

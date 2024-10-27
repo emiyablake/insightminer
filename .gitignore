@@ -5,3 +5,10 @@
 *.pyc
 **/_pycache_/
 _pycache_/
+.env
+.xlsx
+testes/
+*.pyc
+*/_pycache_/
+_pycache_/
+venv/

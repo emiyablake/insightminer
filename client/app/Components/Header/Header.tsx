@@ -4,7 +4,7 @@ import Link from "next/link"
 export default function Header() {
     return(
         <div className={styles.header}>
-            <Link href={"./home"}><h1>Insight Miner</h1></Link>
+            <Link href={"./home"}><h1 className={styles.typeName}>Insight Miner</h1></Link>
             <nav className={styles.nav}>
                 <a href="">Sobre</a>
                 <a href="">Contato</a>

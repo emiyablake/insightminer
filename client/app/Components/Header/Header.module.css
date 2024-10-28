@@ -5,14 +5,16 @@
  align-items: center;
  justify-content: space-between;
  padding: 50px;
- border: 1px solid red;
  background-color:var(--blue);
+}
+
+.typeName{
+    font-family: var(--font-jose-sans);
 }
 
 .nav{
  display: flex;
  flex-direction: row;
  gap: 50px;
- border: 1px blue solid;
 
 }

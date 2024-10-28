@@ -1,4 +1,11 @@
+
+
 .page {
+  --blue: #153243;
+  --white: #F4F9E9;
+  --varWhite: #E1F6E1;
+  --gray: #B4B8AB;
+  
   --gray-rgb: 0, 0, 0;
   --gray-alpha-200: rgba(var(--gray-rgb), 0.08);
   --gray-alpha-100: rgba(var(--gray-rgb), 0.05);
@@ -58,6 +65,7 @@
 
 .ctas {
   display: flex;
+  flex-direction: column;
   gap: 16px;
 }
 
@@ -87,6 +95,16 @@ a.primary {
 a.secondary {
   border-color: var(--gray-alpha-200);
   min-width: 180px;
+}
+
+.btnDiv{
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.btn{
+  height: 50px;
 }
 
 .footer {

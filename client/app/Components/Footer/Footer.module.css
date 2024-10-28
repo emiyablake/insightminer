@@ -1,0 +1,15 @@
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid red;
+    background-color: var(--blue);
+
+
+}
+
+.ulFooter{
+    list-style: none;
+}

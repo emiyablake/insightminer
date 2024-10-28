@@ -1,0 +1,20 @@
+
+
+.header{
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ padding: 50px;
+ background-color:var(--blue);
+}
+
+.typeName{
+    font-family: var(--font-jose-sans);
+}
+
+.nav{
+ display: flex;
+ flex-direction: row;
+ gap: 50px;
+
+}

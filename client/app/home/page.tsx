@@ -1,4 +1,4 @@
-import Header from "../Components/Header/Header"
+import Header from "../Components/Header/Header";
 import Footer from "../Components/Footer/Footer"
 import styles from "./home.module.css";
 import Link from "next/link";

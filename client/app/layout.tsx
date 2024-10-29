@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import  { Josefin_Sans, Roboto_Flex } from "next/font/google";
+import { UserProvider } from "./context/userContext";
 import "./globals.css";
 
 const joseSans = Josefin_Sans({
@@ -27,7 +28,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${joseSans.variable} ${robotoFlex.variable} `}>
-        {children}
+        <UserProvider>{children}</UserProvider>
       </body>
     </html>
   );

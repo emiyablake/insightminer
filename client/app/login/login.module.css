@@ -1,0 +1,16 @@
+.mainLogin{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 50px;
+    font-family: var(--font-robo-flex);
+
+}
+
+.formLogin{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

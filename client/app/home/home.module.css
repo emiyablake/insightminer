@@ -1,0 +1,38 @@
+
+.mainHome{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    padding: 100px; 
+    font-family: var(--font-robo-flex);
+}
+
+.userHome{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border: 1px solid purple;
+    padding: 15px;
+    color: var(--blue);
+}
+
+.navHome{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+   
+}
+
+.dashHome{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 900px;
+    border-radius: 5px;
+    background-color: gray;
+}
+
+.infodash{
+    border: 1px solid purple;
+    padding: 15px;
+}

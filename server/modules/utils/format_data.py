@@ -30,3 +30,18 @@ def get_error_message_bad_request(query):
         "query": query,
         "status": "Bad request"
     }
+
+def extract_words_from_mongo(docs: list) -> list:
+    stopwords = {"the", "of", "a", "an", "and", "in", "to", "for", "is", "on", "with", "by",
+                 "it", "this", "that", "from", "are", "at", "be", "as", "was", "or",
+                 "but", "not", "1", "2", "3", "4", "5", "6", "7", "8", "9", "0", "more",
+                 "e", "i", "o", "u"}
+
+    word_cloud = []
+    for item in docs:
+        for key in ["title", "content", "description"]:
+            print(key, item.get(key))
+            words = item.get(key, "").split() if item.get(key, "") is not None else []
+            word_cloud.extend([word.lower() for word in words if word.lower() not in stopwords])
+
+    return word_cloud

@@ -8,7 +8,8 @@ from pydantic import BaseModel, Field
 # from database.db_mongo.db_mongo import MongoDB
 
 from server.database.db_mongo.db_mongo import MongoDB
-from server.modules.utils.format_data import convert_object_id, get_error_message_bad_request
+from server.modules.utils.format_data import convert_object_id, get_error_message_bad_request, extract_words_from_mongo
+
 #from ..modules.utils.format_data import convert_object_id, get_error_message_bad_request
 #from ..database.db_mongo.db_mongo import MongoDB
 
@@ -30,13 +31,43 @@ class Query(BaseModel):
         }
 
 
-class QuerySearchWord(Query):
+class QuerySearchWord(BaseModel):
     search_word: str
+
+    def set_query_to_dict(self) -> dict:
+        return {
+            key: value
+            for key, value in self.model_dump().items()
+            if value is not None
+        }
 
 
 @router.get("/news/test")
 def read_root():
     return {"server status - news": "ok"}
+
+@router.post("/news/words/cloud")
+def read_words_to_cloud(body: QuerySearchWord):
+    dt_start = datetime.datetime.now()
+    query = body.set_query_to_dict()
+
+    if not query:
+        return get_error_message_bad_request(query)
+    else:
+        documents = MongoDB.search_documents_by_query(
+            db_collection_name='news_content',
+            query=query
+        )
+        documents = [convert_object_id(document) for document in documents]
+
+        word_cloud = extract_words_from_mongo(documents)
+
+        return {
+            "total_results": len(documents),
+            "execution_time": datetime.datetime.now() - dt_start,
+            "query": query,
+            "result": word_cloud
+        }
 
 
 # ler todas noticias

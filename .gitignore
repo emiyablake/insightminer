@@ -1,11 +1,18 @@
 *.xml
 .idea/
+server/.idea/
 /build/
+server//build/
 .pytest_cache
+server/.pytest_cache
 *.pyc
+server/*.pyc
 **/_pycache_/
+server/**/_pycache_/
 _pycache_/
+server/_pycache_/
  __pycache__/
+ server/ __pycache__/
 .env
 .xlsx
 testes/
@@ -13,3 +20,5 @@ testes/
 */_pycache_/
 _pycache_/
 venv/
+server/venv
+server/venv/

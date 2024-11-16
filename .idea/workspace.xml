@@ -42,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python tests.pytest in test_app.py">
+  <component name="RunManager" selected="Python.app">
     <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="insightminer" />
       <option name="ENV_FILES" value="" />
@@ -93,7 +93,6 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.10 (insightminer)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/server/test" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -112,9 +111,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.app" />
         <item itemvalue="Python tests.pytest in test_app.py" />
         <item itemvalue="Python.a" />
-        <item itemvalue="Python.app" />
       </list>
     </recent_temporary>
   </component>

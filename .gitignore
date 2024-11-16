@@ -1,5 +1,8 @@
 *.xml
 .idea/
+*.idea
+*.iml
+
 server/.idea/
 /build/
 server//build/
@@ -22,3 +25,5 @@ _pycache_/
 venv/
 server/venv
 server/venv/
+/venv/
+/.venv/

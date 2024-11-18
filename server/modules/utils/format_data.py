@@ -1,3 +1,4 @@
+import string
 from bson import ObjectId
 
 from fastapi import APIRouter, HTTPException
@@ -54,7 +55,7 @@ def extract_words_from_mongo(docs: list) -> list:
         "just", "don", "should", "now", "d", "ll", "m", "o", "re", "ve", "y", "ain",
         "aren", "couldn", "didn", "doesn", "hadn", "hasn", "haven", "isn", "ma",
         "mightn", "mustn", "needn", "shan", "shouldn", "wasn", "weren", "won",
-        "wouldn"
+        "wouldn", "...", ".", "-", ""
     }
 
     word_cloud = []
@@ -62,6 +63,14 @@ def extract_words_from_mongo(docs: list) -> list:
         for key in ["title", "content", "description"]:
             # print(key, item.get(key))
             words = item.get(key, "").split() if item.get(key, "") is not None else []
-            word_cloud.extend([word.lower() for word in words if word.lower() not in stopwords])
+            word_cloud.extend(
+                [
+                    word.lower().strip(string.punctuation)
+                    for word in words 
+                    if word.lower() not in stopwords 
+                    and len(word) > 1
+
+                ]
+            )
 
     return word_cloud

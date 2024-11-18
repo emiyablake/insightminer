@@ -53,6 +53,25 @@ class MongoDB:
             }
 
         return response_di
+    
+    @classmethod
+    def insert_many_documents(
+            cls,
+            documents: List[dict],
+            db_collection_name: str
+    ) -> dict:
+        db_collection = cls._db[db_collection_name]
+        response = db_collection.insert_many(documents)
+        response_di = {}
+
+        if response.acknowledged:
+            response_di = {
+                "acknowledged": response.acknowledged,
+                "inserted_ids": [str(obj_id) for obj_id in response.inserted_ids],
+                "documents_inserted": len(response.inserted_ids)
+            }
+
+        return response_di
 
     @classmethod
     def delete_document(

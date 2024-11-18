@@ -8,7 +8,9 @@ from pydantic import BaseModel, Field
 # from database.db_mongo.db_mongo import MongoDB
 
 from server.database.db_mongo.db_mongo import MongoDB
+from server.modules.mocks.api_news_mocks import gen_mock_news
 from server.modules.utils.format_data import convert_object_id, get_error_message_bad_request, extract_words_from_mongo
+from server.modules.utils.update_news_db import extract_info_news
 
 #from ..modules.utils.format_data import convert_object_id, get_error_message_bad_request
 #from ..database.db_mongo.db_mongo import MongoDB
@@ -45,6 +47,27 @@ class QuerySearchWord(BaseModel):
 @router.get("/news/test")
 def read_root():
     return {"server status - news": "ok"}
+
+@router.post("/news/words/update")
+def update_words(body: QuerySearchWord):
+    dt_start = datetime.datetime.now()
+    query = body.set_query_to_dict()
+
+    if not query:
+        return get_error_message_bad_request(query)
+    
+    api_news_response = gen_mock_news()  # todo: criar função para requisitar a api news
+    news = extract_info_news(api_news_response, query)
+    db_response = MongoDB.insert_many_documents(
+        db_collection_name='news_content',
+        documents=news
+    )
+
+    return {
+        # "result": news,
+        "query": query,
+        "db_response": db_response
+    }
 
 @router.post("/news/words/cloud")
 def read_words_to_cloud(body: QuerySearchWord):

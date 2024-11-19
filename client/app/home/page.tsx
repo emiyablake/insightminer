@@ -9,7 +9,7 @@ export default function Home() {
             <Header />
             <main className={styles.mainHome}>
                 <div className={styles.userHome}>
-                    <h2>Bem vindo de volta José</h2>
+                    <h2>Bem vindo de volta</h2>
                     <p>O que você gostaria de fazer hoje?</p>
                     <nav className={styles.navHome}>
                         <button><Link href={"./wordcloud"}>Nuvem de palavras</Link></button>

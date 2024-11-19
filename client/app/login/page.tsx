@@ -4,6 +4,7 @@ import {useState} from "react";
 import { useRouter } from "next/navigation";
 import { signInWithEmailAndPassword } from "firebase/auth";
 import { auth } from "../firebase";
+import Link from "next/link"
 import styles from "./login.module.css"
 
 export default function Login() {
@@ -15,7 +16,7 @@ export default function Login() {
         e.preventDefault();
         try {
             await signInWithEmailAndPassword(auth, email, password);
-            router.push("/create"); // Redirect to a protected route after login
+            router.push("/home"); // Redirect to a protected route after login
         } catch (error) {
             console.error("Error signing in:", error);
         }
@@ -42,6 +43,9 @@ export default function Login() {
                         required
                     />
                     <button type="submit">Entrar</button>
+                    <div>
+                        <Link href="/"> Voltar </Link>
+                    </div>
                 </form>
             </main>
         </div>

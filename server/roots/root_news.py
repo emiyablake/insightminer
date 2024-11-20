@@ -1,16 +1,19 @@
 import datetime
 
+import json
 from typing import List, Optional
 
 from bson import ObjectId
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel, Field
+import requests
 # from database.db_mongo.db_mongo import MongoDB
 
-from server.database.db_mongo.db_mongo import MongoDB
-from server.modules.mocks.api_news_mocks import gen_mock_news
-from server.modules.utils.format_data import convert_object_id, get_error_message_bad_request, extract_words_from_mongo
-from server.modules.utils.update_news_db import extract_info_news
+from ..database.db_mongo.db_mongo import MongoDB
+from ..modules.utils.format_data import convert_object_id, extract_words_from_mongo, get_error_message_bad_request
+#from modules.utils.format_data import convert_object_id, extract_words_from_mongo, get_error_message_bad_request
+from ..modules.utils.update_news_db import ApiNewsService, extract_info_news
+
 
 #from ..modules.utils.format_data import convert_object_id, get_error_message_bad_request
 #from ..database.db_mongo.db_mongo import MongoDB
@@ -56,18 +59,26 @@ def update_words(body: QuerySearchWord):
     if not query:
         return get_error_message_bad_request(query)
     
-    api_news_response = gen_mock_news()  # todo: criar função para requisitar a api news
-    news = extract_info_news(api_news_response, query)
-    db_response = MongoDB.insert_many_documents(
-        db_collection_name='news_content',
-        documents=news
-    )
+    api_news_response = ApiNewsService.request_news(query.get('search_word', ''))
+    # api_news_response = gen_mock_news()
 
-    return {
-        # "result": news,
-        "query": query,
-        "db_response": db_response
-    }
+    if api_news_response.get('status') == 'ok':
+        news = extract_info_news(api_news_response, query)
+        db_response = MongoDB.insert_many_documents(
+            db_collection_name='news_content',
+            documents=news
+        )
+
+        return {
+            "status": "ok",
+            "query": query,
+            "db_response": db_response
+        }
+    
+    raise HTTPException(
+        status_code=api_news_response.get('response_code', 400),
+        detail=api_news_response
+    )
 
 @router.post("/news/words/cloud")
 def read_words_to_cloud(body: QuerySearchWord):
@@ -86,6 +97,7 @@ def read_words_to_cloud(body: QuerySearchWord):
         word_cloud = extract_words_from_mongo(documents)
 
         return {
+            "status": "ok",
             "total_results": len(documents),
             "execution_time": datetime.datetime.now() - dt_start,
             "query": query,
@@ -204,9 +216,3 @@ def delete_news(body: Query):
             "result": response,
             "query": query
         }
-
-
-@router.put("/news/update")
-def update_news(body: QuerySearchWord):
-    pass
-

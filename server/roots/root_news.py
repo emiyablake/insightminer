@@ -118,113 +118,113 @@ def read_words_to_cloud(body: QuerySearchWord):
 
 
 # ler todas noticias
-@router.get("/news")
-def read_all_news():
-    print('Listando todas as noticias')
-    documents = MongoDB.read_all_documents(db_collection_name='news_content')
-    documents = [convert_object_id(document) for document in documents]
+# @router.get("/news")
+# def read_all_news():
+#     print('Listando todas as noticias')
+#     documents = MongoDB.read_all_documents(db_collection_name='news_content')
+#     documents = [convert_object_id(document) for document in documents]
 
-    return {
-        'result': documents[:10]
-    }
-
-
-# ler noticia por id
-@router.post("/news")
-def read_news_by_id(body: dict):
-    object_id = body.get('object_id', None)
-    document = MongoDB.read_document(
-        db_collection_name='news_content',
-        object_id=ObjectId(object_id)
-    )
-    convert_object_id(document)
-    return {
-        'result': document
-    }
+#     return {
+#         'result': documents[:10]
+#     }
 
 
-@router.post("/news/search")
-async def read_news_by_query(body: Query):
-
-    dt_start = datetime.datetime.now()
-    query = body.set_query_to_dict()
-
-    if not query:
-        return get_error_message_bad_request(query)
-    else:
-        documents = MongoDB.search_documents_by_query(
-            db_collection_name='news_content',
-            query=query
-        )
-        documents = [convert_object_id(document) for document in documents]
-
-        return {
-            "total_results": len(documents),
-            "execution_time": datetime.datetime.now() - dt_start,
-            "query": query,
-            "result": documents
-        }
+# # ler noticia por id
+# @router.post("/news")
+# def read_news_by_id(body: dict):
+#     object_id = body.get('object_id', None)
+#     document = MongoDB.read_document(
+#         db_collection_name='news_content',
+#         object_id=ObjectId(object_id)
+#     )
+#     convert_object_id(document)
+#     return {
+#         'result': document
+#     }
 
 
-@router.post("/news/create")
-def create_news(body: Query):
+# @router.post("/news/search")
+# async def read_news_by_query(body: Query):
 
-    query = body.set_query_to_dict()
+#     dt_start = datetime.datetime.now()
+#     query = body.set_query_to_dict()
 
-    if not query:
-        return get_error_message_bad_request(query)
+#     if not query:
+#         return get_error_message_bad_request(query)
+#     else:
+#         documents = MongoDB.search_documents_by_query(
+#             db_collection_name='news_content',
+#             query=query
+#         )
+#         documents = [convert_object_id(document) for document in documents]
 
-    else:
-        response = MongoDB.insert_document(
-            db_collection_name='news_content',
-            document=query
-        )
-
-        query = convert_object_id(query)
-
-        return {
-            "result": response,
-            "document": query
-        }
-
-
-@router.delete("/news/delete/one")
-def delete_news(body: Query):
-    query = body.set_query_to_dict()
-
-    if not query:
-        return get_error_message_bad_request(query)
-
-    else:
-        response = MongoDB.delete_document(
-            db_collection_name='news_content',
-            query=query
-        )
-
-        query = convert_object_id(query)
-
-        return {
-            "result": response,
-            "query": query
-        }
+#         return {
+#             "total_results": len(documents),
+#             "execution_time": datetime.datetime.now() - dt_start,
+#             "query": query,
+#             "result": documents
+#         }
 
 
-@router.delete("/news/delete/many")
-def delete_news(body: Query):
-    query = body.set_query_to_dict()
+# @router.post("/news/create")
+# def create_news(body: Query):
 
-    if not query:
-        return get_error_message_bad_request(query)
+#     query = body.set_query_to_dict()
 
-    else:
-        response = MongoDB.delete_documents(
-            db_collection_name='news_content',
-            query=query
-        )
+#     if not query:
+#         return get_error_message_bad_request(query)
 
-        query = convert_object_id(query)
+#     else:
+#         response = MongoDB.insert_document(
+#             db_collection_name='news_content',
+#             document=query
+#         )
 
-        return {
-            "result": response,
-            "query": query
-        }
+#         query = convert_object_id(query)
+
+#         return {
+#             "result": response,
+#             "document": query
+#         }
+
+
+# @router.delete("/news/delete/one")
+# def delete_news(body: Query):
+#     query = body.set_query_to_dict()
+
+#     if not query:
+#         return get_error_message_bad_request(query)
+
+#     else:
+#         response = MongoDB.delete_document(
+#             db_collection_name='news_content',
+#             query=query
+#         )
+
+#         query = convert_object_id(query)
+
+#         return {
+#             "result": response,
+#             "query": query
+#         }
+
+
+# @router.delete("/news/delete/many")
+# def delete_news(body: Query):
+#     query = body.set_query_to_dict()
+
+#     if not query:
+#         return get_error_message_bad_request(query)
+
+#     else:
+#         response = MongoDB.delete_documents(
+#             db_collection_name='news_content',
+#             query=query
+#         )
+
+#         query = convert_object_id(query)
+
+#         return {
+#             "result": response,
+#             "query": query
+#         }

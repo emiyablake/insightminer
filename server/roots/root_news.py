@@ -8,13 +8,15 @@ from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel, Field
 import requests
 
-from server.modules.mocks.api_news_mocks import gen_mock_news
+from modules.mocks.api_news_mocks import gen_mock_news
 # from database.db_mongo.db_mongo import MongoDB
 
-from ..database.db_mongo.db_mongo import MongoDB
-from ..modules.utils.format_data import convert_object_id, extract_words_from_mongo, get_error_message_bad_request
+# from db_mongo.db_mongo import MongoDB
+from database.db_mongo.db_mongo import MongoDB
+
+from modules.utils.format_data import convert_object_id, extract_words_from_mongo, get_error_message_bad_request
 #from modules.utils.format_data import convert_object_id, extract_words_from_mongo, get_error_message_bad_request
-from ..modules.utils.update_news_db import ApiNewsService, extract_info_news
+from modules.utils.update_news_db import ApiNewsService, extract_info_news
 
 
 #from ..modules.utils.format_data import convert_object_id, get_error_message_bad_request

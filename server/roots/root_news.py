@@ -7,6 +7,8 @@ from bson import ObjectId
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel, Field
 import requests
+
+from server.modules.mocks.api_news_mocks import gen_mock_news
 # from database.db_mongo.db_mongo import MongoDB
 
 from ..database.db_mongo.db_mongo import MongoDB
@@ -38,6 +40,7 @@ class Query(BaseModel):
 
 class QuerySearchWord(BaseModel):
     search_word: str
+    test: Optional[bool] = False
 
     def set_query_to_dict(self) -> dict:
         return {
@@ -59,8 +62,13 @@ def update_words(body: QuerySearchWord):
     if not query:
         return get_error_message_bad_request(query)
     
-    api_news_response = ApiNewsService.request_news(query.get('search_word', ''))
-    # api_news_response = gen_mock_news()
+    if query.get('test'):
+        query['search_word'] = 'test'
+        query.pop('test')
+        api_news_response = gen_mock_news()
+    else:
+        query.pop('test')
+        api_news_response = ApiNewsService.request_news(query.get('search_word', ''))
 
     if api_news_response.get('status') == 'ok':
         news = extract_info_news(api_news_response, query)
@@ -72,7 +80,8 @@ def update_words(body: QuerySearchWord):
         return {
             "status": "ok",
             "query": query,
-            "db_response": db_response
+            "db_response": db_response,
+            "execution_time": datetime.datetime.now() - dt_start
         }
     
     raise HTTPException(
@@ -88,6 +97,7 @@ def read_words_to_cloud(body: QuerySearchWord):
     if not query:
         return get_error_message_bad_request(query)
     else:
+        query.pop('test')
         documents = MongoDB.search_documents_by_query(
             db_collection_name='news_content',
             query=query

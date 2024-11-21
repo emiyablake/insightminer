@@ -18,7 +18,7 @@ html,
 body {
   max-width: 100%;
   max-width: 100%;
-  overflow-x: hidden;
+  /*overflow-x: hidden;*/
 }
 
 body {
@@ -42,6 +42,14 @@ a {
 
 button {
   padding: 10px;
+}
+
+input {
+  padding: 10px;
+}
+
+h1 {
+  margin-bottom: 10px;
 }
 
 @media (prefers-color-scheme: dark) {

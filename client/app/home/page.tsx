@@ -27,6 +27,7 @@ export default function Home() {
                         <h3>Analise de uso do usuario</h3>
                         <p>qnts requisições que o usuario fez</p>
                         <p>Quantas palavras pesquisou</p>
+                        <p>coisarada</p>
                     </div>
                 </div>
 

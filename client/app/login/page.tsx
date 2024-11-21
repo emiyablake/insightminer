@@ -25,6 +25,7 @@ export default function Login() {
     
     return (
         <div>
+            
             <main className={styles.mainLogin}>
                 <h1>Bem vindo!</h1>
                 <form onSubmit={handleSubmit} className={styles.formLogin}>
@@ -36,6 +37,7 @@ export default function Login() {
                         required
                     />
                     <input
+                        
                         type="password"
                         value={password}
                         onChange={(e) => setPassword(e.target.value)}
@@ -44,7 +46,7 @@ export default function Login() {
                     />
                     <button type="submit">Entrar</button>
                     <div>
-                        <Link href="/"> Voltar </Link>
+                        <Link href="/">Voltar</Link>
                     </div>
                 </form>
             </main>

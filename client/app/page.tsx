@@ -6,12 +6,12 @@ export default function Home() {
   return (
     <div className={styles.page}>
       <main className={styles.main}>
-        <div className={styles.ctas}>
+        <div>
           <h1>Insight Miner</h1>
           <div className={styles.btnDiv}>
-            <button className={styles.btn}> <Link href={"/home"}>Home</Link></button>
-            <button className={styles.btn}> <Link href={"/login"}>Log in</Link></button>
-            <button className={styles.btn}> <Link href={"/signup"}>Sign up</Link></button>
+            <button > <Link href={"/home"}>Home</Link></button>
+            <button > <Link href={"/login"}>Log in</Link></button>
+            <button > <Link href={"/signup"}>Sign up</Link></button>
           </div>
         </div>
       </main>

@@ -5,7 +5,7 @@ from typing import List
 from fastapi import HTTPException
 import requests
 
-from server import properties
+import properties
 
 
 

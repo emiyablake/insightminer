@@ -1,3 +1,6 @@
+# Ativar ambiente virtual
+dentro de server: venv\scrtips\activate
+
 # Rodar localmente a aplicação fora do container
 uvicorn app:app --host 0.0.0.0 --port 8000 --reload
 

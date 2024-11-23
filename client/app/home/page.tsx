@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export default function Home() {
     return (
-        <div>
+        <div className={styles.pages}>
             <Header />
             <main className={styles.mainHome}>
                 <div className={styles.userHome}>

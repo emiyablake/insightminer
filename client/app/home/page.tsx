@@ -1,9 +1,10 @@
+import { NextPage } from "next";
 import Header from "../Components/Header/Header";
 import Footer from "../Components/Footer/Footer"
 import styles from "./home.module.css";
 import Link from "next/link";
 
-export default function Home() {
+const Home: NextPage = () => {
     return (
         <div className={styles.pages}>
             <Header />
@@ -36,3 +37,4 @@ export default function Home() {
         </div>
     )
 }
+export default Home;

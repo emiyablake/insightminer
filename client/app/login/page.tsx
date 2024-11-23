@@ -1,5 +1,5 @@
 'use client';
-
+import { NextPage } from "next";
 import {useState} from "react";
 import { useRouter } from "next/navigation";
 import { signInWithEmailAndPassword } from "firebase/auth";
@@ -7,7 +7,7 @@ import { auth } from "../firebase";
 import Link from "next/link"
 import styles from "./login.module.css"
 
-export default function Login() {
+const Login = () => {
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
     const router = useRouter();
@@ -53,3 +53,5 @@ export default function Login() {
         </div>
     );
 }
+
+export default Login;

@@ -1,6 +1,23 @@
+
 .mainWordcloud{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.sectionCloud{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+    gap: 30px;
+}
+
+.divCloud{
+    display: flex;
+    border-radius: 5px;
+    background-color:var(--varWhite);
+    padding: 20px;
 }
 

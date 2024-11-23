@@ -37,8 +37,10 @@ const WordCloud: NextPage = () => {
         <div className={styles.mainHome}>
             <section className={styles.sectionCloud}>
                     <h1>WordCloud</h1>
-                    
-                    <input type="text" />
+                    <div>
+                        <label>Digite uma palavra</label>
+                        <input type="text" />
+                    </div>
                     <div className={styles.divCloud}>
                         <D3Cloud words={words} />
                     </div>

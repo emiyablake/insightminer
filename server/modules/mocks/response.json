@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 96709,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "lvaranasi@insider.com (Lakshmi Varanasi)",
+            "title": "Dropbox CEO Drew Houston says these types of people will be the ones to benefit from AI",
+            "description": "At the MIT AI conference on Saturday, Drew Houston gave his two cents on who will benefit the most from AI.",
+            "url": "https://www.businessinsider.com/dropbox-ceo-drew-houston-ai-skills-2024-10",
+            "urlToImage": "https://i.insider.com/671e8c65a0a0cc14f2244319?width=1200&format=jpeg",
+            "publishedAt": "2024-10-27T20:14:19Z",
+            "content": "Dropbox CEO Drew Houston says that the winners of the AI race will have two strengths expertise in AI and a strong command of another subject.\r\nAt the MIT AI Conference on Saturday, Houston said the … [+1402 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "Generative AI Doesn't Have a Coherent Understanding of the World, MIT Researchers Find",
+            "description": "Long-time Slashdot reader Geoffrey.landis writes: Despite its impressive output, a recent study from MIT suggests generative AI doesn't have a coherent understanding of the world. While the best-performing large language models have surprising capabilities th…",
+            "url": "https://slashdot.org/story/24/11/10/1911204/generative-ai-doesnt-have-a-coherent-understanding-of-the-world-mit-researchers-find",
+            "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+            "publishedAt": "2024-11-10T22:34:00Z",
+            "content": "Of course, everyone knows these models hallucinate. The question is, what is going on inside the model to make it hallucinate? (Or alternately, what is it doing to be right so often?). Once you can f… [+1448 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Isaac Schultz",
+            "title": "Epic Three-Body Problem: Astronomers Uncover a Black Hole Love Triangle",
+            "description": "The roughly four-billion-year-old system consists of a black hole and two orbiting stars—a configuration that's never been seen before.",
+            "url": "https://gizmodo.com/epic-three-body-problem-astronomers-uncover-a-black-hole-love-triangle-2000515292",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/black-hole-triple-system.jpg",
+            "publishedAt": "2024-10-23T15:00:59Z",
+            "content": "Physicists from MIT and Caltech have discovered a first: a black hole triple system, consisting of three bodies spinning around each other about 7,800 light-years from Earth.\r\nBlack hole binariestwo-… [+4113 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Tim Klein",
+            "title": "Die Produktwerker: Umgang mit Produktrisiken",
+            "description": "Wie können Product Owner Risiken in der Produktentwicklung identifizieren und minimieren? Damit befassen sich die Produktwerker in dieser Folge des Podcasts.",
+            "url": "https://www.heise.de/blog/Die-Produktwerker-Umgang-mit-Produktrisiken-10002932.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/0/5/7/0/produktwerker-3f367273bb52c1f5.png",
+            "publishedAt": "2024-11-04T11:30:00Z",
+            "content": "In dieser Podcastfolge widmen sich Oliver Winter und Tim Klein dem Thema Produktrisiken und beleuchten, welche Herausforderungen Product Owner im Hinblick auf die Risikobetrachtung meistern sollten. … [+2333 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Frank Schräer",
+            "title": "Mittwoch: Meta wieder mit Gesichtserkennung, Foursquare mit nur noch einer App",
+            "description": "Gesichtserkennung gegen Scam + Abschaltung vom City Guide + Ende der GSM-Netze + Qualcomms neue Chips für KI im Auto + Bit-Rauschen über Intels neue Mobil-CPU",
+            "url": "https://www.heise.de/news/Mittwoch-Meta-wieder-mit-Gesichtserkennung-Foursquare-mit-nur-noch-einer-App-9990926.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/4/3/4/9/mittwoch-8b575fa1e50ddb7f.webp",
+            "publishedAt": "2024-10-23T04:15:00Z",
+            "content": "Der Facebook-Konzern Meta Platforms will Gesichtserkennung nutzen, um Scam-Versuche besser zu erkennen. Zudem sollen durch eine Gesichtserkennung laufende Video-Selfies helfen, verlorene Nutzerkonten… [+6699 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Alexander Spier",
+            "title": "heise+ | Quasseln mit der KI: Jetzt ganz natürlich plaudern mit ChatGPT und Gemini",
+            "description": "ChatGPT und Gemini bieten neuerdings ausgefeilte Sprachfähigkeiten und führen mit dem Nutzer überraschend natürliche Unterhaltungen. Wir haben es ausprobiert.​",
+            "url": "https://www.heise.de/tests/Quasseln-mit-der-KI-Jetzt-ganz-natuerlich-plaudern-mit-ChatGPT-und-Gemini-10003138.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/0/6/8/1/DALL__E_2024-11-14_11.28.47_-_A_single_humanoid_robot_standing__facing_forward__with_a_speech_bubble_next_to_it._Letters_and_symbols_float_in_the_speech_bubble__creating_a_visual_s-c0df508da39c5fae.webp",
+            "publishedAt": "2024-11-15T07:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nEin Computer, der auch aus krummen Sprachanfragen die korrekte Intention liest, der in Echtzeit sinnvolle Antworten im gegebenen Kontext gibt, auf Stimmungen reagiert und Nachfrag… [+1684 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ulrich Schmitz",
+            "title": "Mit KI-Drohnen den Küstenschutz verbessern",
+            "description": "Um Risse und morsche Stellen in Deichen, Staudämmen oder Brücken frühzeitig zu erkennen, setzt ein Team der Hochschule Magdeburg-Stendal auf Drohnen.",
+            "url": "https://www.heise.de/news/Mit-KI-Drohnen-den-Kuestenschutz-verbessern-9995383.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/6/6/8/1/newsimage399094-60e6e9d5161736e2.jpg",
+            "publishedAt": "2024-10-26T12:08:00Z",
+            "content": "Wenn Deiche brechen, führt das meist zu schweren Überschwemmungen und Schäden. Ein zwölfköpfiges Team der Hochschule Magdeburg-Stendal verwendet Drohnen, um Risse und morsche Stellen in Deichen, Stau… [+2999 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Bernd Heisterkamp",
+            "title": "heise+ | IoT-Wasserwaage mit RemoteXY betreiben",
+            "description": "Mit Hilfe von RemoteXY lässt sich im Handumdrehen eine Wasserwaage mit ESP32 und NeoPixeln bauen, die darauf reagiert, wie man gerade sein Smartphone hält.",
+            "url": "https://www.heise.de/ratgeber/IoT-Wasserwaage-mit-RemoteXY-betreiben-9978154.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/8/7/5/8/3/wasserwaage_aufmacher_quer_digi-9ea7fd9c656b4314.jpg",
+            "publishedAt": "2024-10-25T11:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nRemoteXY kann über verschiedene Schnittstellen mit einem Mikrocontroller kommunizieren. Eine davon ist der Datenaustausch über die Cloud.\r\nIm folgenden Beispiel zeige ich, wie man… [+750 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Christian Heitzmann",
+            "title": "heise+ | Softwareprojekte konsistent mit Antora dokumentieren",
+            "description": "Mit Antora können Sie ganze Dokumentationen für statische Websites auf Basis von AsciiDoc über mehrere Repositorys hinweg strukturieren und konsistent halten.",
+            "url": "https://www.heise.de/ratgeber/Softwareprojekte-konsistent-mit-Antora-dokumentieren-9992034.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/4/9/0/9/aufmacher_antora-bc27f7a2c47fb628.png",
+            "publishedAt": "2024-10-29T12:30:00Z",
+            "content": "Inhaltsverzeichnis\r\nSoftwaredokumentation ist wichtig allen faulen Ausreden zum Trotz. Wenn die Dokumentation alle Ebenen der Software konsistent und jeweils auf dem aktuellen Stand abbilden soll, si… [+2862 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ben Schwan",
+            "title": "Anpassbares Rad überwindet Hindernisse mit Wassertropfentechnik",
+            "description": "Südkoreanische Forscher wollen Rollstühle und andere persönliche Fortbewegungsmittel flexibler machen: Ihr neues Rad kommt mit nahezu jedem Gelände zurecht.",
+            "url": "https://www.heise.de/news/Anpassbares-Rad-ueberwindet-Hinternisse-mit-Wassertropfentechnik-9861027.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/6/5/4/9/4/Screenshot_2024-10-29_at_22.19.36-862e39813d5b0bba.png",
+            "publishedAt": "2024-11-02T09:52:00Z",
+            "content": "Räder haben einen entscheidenden Nachteil: Fehlt ihnen das passende Profil, bleiben sie in Schlamm und Matsch (oder Schnee und Eis) liegen. Gleiches gilt für die Überwindung (zu) großer Hindernisse, … [+3950 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Malte Kirchner",
+            "title": "Funklochkarte erweitert: Jetzt mit mehr Informationen",
+            "description": "Die Bundesnetzagentur hat ihre Funklochkarte erweitert. Sie enthält jetzt mehr Details und neue Filter.",
+            "url": "https://www.heise.de/news/Funklochkarte-erweitert-Jetzt-mit-mehr-Informationen-9991686.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/4/7/1/0/Bildschirmfoto_2024-10-23_um_12.28.25-8a940c2e18c66277.png",
+            "publishedAt": "2024-10-23T11:05:00Z",
+            "content": "Die Funklochkarte der Bundesnetzagentur wurde um etliche Details erweitert. Wie die Behörde mitteilte, können die Messergebnisse der Breitbandmessung und Funkloch-App jetzt differenziert nach Bundesl… [+1494 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Tobias Vogel",
+            "title": "heise+ | Projekt: Verkaufsautomat mit ESP im Eigenbau",
+            "description": "Der Automat übernimmt Transaktionen und meldet Verkäufe und Fehler ans Smartphone. Man muss sich gut überlegen, wie Hard- und Software zusammenspielen sollen.",
+            "url": "https://www.heise.de/ratgeber/Projekt-Verkaufsautomat-mit-ESP-im-Eigenbau-9994117.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/6/0/3/0/vendinator_00_aufmacher_niwe-beea5a8dc683bf6e.jpg",
+            "publishedAt": "2024-10-30T08:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nAls unser damals 14-jähriger Sohn erklärte, dass er imkern wolle, nahmen wir ihn zunächst nicht ernst. Zwei Jahre und einige Imkerkurse später stand dann aber der erste Eimer mit … [+2424 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Richard Seidl",
+            "title": "Podcast Software Testing: Business Analyst mit Qualitätsblick",
+            "description": "In dieser Podcast-Folge spricht Richard Seidl mit Phillip Huber über die Qualität von Anforderungen und wie diese sichergestellt werden kann.",
+            "url": "https://www.heise.de/blog/Podcast-Software-Testing-Business-Analyst-mit-Qualitaetsblick-10003257.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/0/7/4/2/business_analyst_2560x1440-21b08dbaf1dbf36a.jpg",
+            "publishedAt": "2024-11-05T07:04:00Z",
+            "content": "Richard Seidl begrüßt in dieser Folge des Podcasts Software Testing Philipp Huber, einen Business-Analysten, der früher als Tester gearbeitet hat. Sie sprechen darüber, wie Hubers Testerfahrungen sei… [+989 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Falk Steiner",
+            "title": "Digitalgipfel: \"Gigabit am Gleis\" mit großen Fragezeichen​",
+            "description": "5G soll Bahn-Fahrgäste zwischen Berlin und Hamburg glücklich machen – aber ob und wann das kommt, ist offen. Doch auch an anderen Stellschrauben wird gedreht.​",
+            "url": "https://www.heise.de/hintergrund/Digitalgipfel-Gigabit-am-Gleis-mit-grossen-Fragezeichen-9990315.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/4/0/1/8/DB252505-e7e972f93aae9b58.jpg",
+            "publishedAt": "2024-10-22T13:24:00Z",
+            "content": "Inhaltsverzeichnis\r\nDie Bahn und die deutschen Netzbetreiber wollen die Mobilfunkversorgung entlang der Schienenwege deutlich verbessern. Zum Auftakt des Digitalgipfels der Bundesregierung in Frankfu… [+6016 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Maik Schmidt",
+            "title": "heise+ | Smartphone-Apps mit RemoteXY erstellen",
+            "description": "Für Hobby-Projekte gibt es selten eine App-Steuerung. Wie man die eigene Hardware ganz leicht mit RemoteXY kontrollieren kann, zeigen wir in diesem Artikel.",
+            "url": "https://www.heise.de/ratgeber/Smartphone-Apps-mit-RemoteXY-erstellen-9978196.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/8/7/6/0/6/smartphoneapp_2507833957_digi-fcfb5177d8e6b2c5.jpg",
+            "publishedAt": "2024-10-25T13:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nMikrocontroller zu programmieren, ist immer noch eine Herausforderung, aber über die letzten Jahre wurde es auch dank Arduino immer einfacher. Das liegt daran, dass sowohl die Pro… [+1405 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Florian Pillau",
+            "title": "Elektroauto-Handelskonflikt mit China fordert globale Kollateralopfer",
+            "description": "Eine neue Maßnahme der US-Regierung könnte Polestar vom US-Markt fegen – einen schwedischen E-Auto-Hersteller mit US-Produktion und NASDAQ-Notierung.",
+            "url": "https://www.heise.de/hintergrund/Elektroauto-Handelskonflikt-mit-China-fordert-globale-Kollateralopfer-9999493.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/8/8/0/2/IMG_1478-320b2afd87a577af.jpg",
+            "publishedAt": "2024-10-30T11:29:00Z",
+            "content": "Inhaltsverzeichnis\r\nSeit heute gelten Zölle, die den europäischen Markt vor subventionierten chinesischen Elektroautos schützen sollen. Die Autobranche ist allerdings mittlerweile so stark globalisie… [+3409 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Dirk Knop",
+            "title": "Roundcube Webmail: Angriffe mit gefälschten Anhängen",
+            "description": "IT-Sicherheitsforscher haben Angriffe auf eine Stored-Cross-Site-Scripting-Lücke in Roundcube Webmail beobachtet. Ein Update ist verfügbar.",
+            "url": "https://www.heise.de/news/Roundcube-Webmail-Angriffe-mit-gefaelschten-Anhaengen-9990216.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/3/9/6/3/2024-10-21-Bing_Creator-Mailserver_Problem-1-f5115ba96d079e35.jpg",
+            "publishedAt": "2024-10-22T12:43:00Z",
+            "content": "Im Webmailer Roundcube, der etwa im universitären Umfeld und auch bei Regierungsorganisationen häufig zum Einsatz kommt, versuchen Angreifer, eine Sicherheitslücke zu missbrauchen. Die Angreifer vers… [+2309 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Daniel Herbig",
+            "title": "Aldi Talk: Neue Jahrespakete mit erhöhtem Datenvolumen",
+            "description": "Aldi Talk bietet nun wieder Jahrespakete an. Die neuen Tarife haben mehr Datenvolumen als die bisherigen Angebote, der Preis bleibt bestehen.",
+            "url": "https://www.heise.de/news/Aldi-Talk-Neue-Jahrespakete-mit-erhoehtem-Datenvolumen-10009417.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/4/1/0/7/shutterstock_2123063030-c680676366737b34.jpg",
+            "publishedAt": "2024-11-08T09:03:00Z",
+            "content": "Aldi Talk wertet seine Jahrespakete auf: Die verschiedenen Pakete bekommen mehr Datenvolumen, das sich frei nach Vorliebe über ein komplettes Jahr nutzen lässt. Die Jahrestarife von Aldi Talk sind ni… [+1632 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Sven Hansen",
+            "title": "heise+ | Reolinks WLAN-Kamera mit Breitbild im Test",
+            "description": "Reolinks Argus 4 Pro mit Doppellinsensystem verspricht besten Überblick und einfache Installation dank Akku mit Solaroption.",
+            "url": "https://www.heise.de/tests/Reolinks-WLAN-Kamera-mit-Breitbild-im-Test-10003224.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/0/7/2/5/reolink_129611_sha_extra_kahlel_frei-f963845e99acff27.jpg",
+            "publishedAt": "2024-11-08T12:30:00Z",
+            "content": "Inhaltsverzeichnis\r\nDie Argus 4 Pro von Reolink menschelt schon beim Auspacken: Wegen der leicht seitlich gestellten Kameralinsen sind Assoziationen mit Wall-E und anderen netten Roboterkollegen prog… [+1523 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Hartmut Gieselmann",
+            "title": "heise+ | Interview: Vlad Kreimer über den wilden Synthesizerbau von Soma Labs",
+            "description": "Soma baut seine Synthesizer mit Metallsensoren in Baumscheiben und verdrahtet Drum-Computer mit Krokodilklemmen. Ein Interview mit Soma-Gründer Vlad Kreimer.",
+            "url": "https://www.heise.de/hintergrund/Interview-Vlad-Kreimer-ueber-den-wilden-Synthesizerbau-von-Soma-Labs-10001103.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/9/6/3/4/128b7281fb3ee691ba74c275ec00bb215d4a8cf9589cd0ba251803554467d6dc-7be968af8a1f5338.jpg",
+            "publishedAt": "2024-11-13T14:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nUngewöhnliche Musikinstrumente haben in Russland eine lange Tradition. Bereits vor mehr als hundert Jahren stellte Leon Theremin den nach ihm benannten Synthesizer der staunenden … [+2071 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Dirk Kunde",
+            "title": "heise+ | Softwaredefinierte Fahrzeuge: Interview mit Intels Automotive CTO Rebeca Delgado",
+            "description": "Mit dem softwaredefinierten Fahrzeug findet ein Paradigmenwechsel in der Branche statt. Wir sprachen mit Rebeca Delgado, Technologiechefin bei Intel Automotive.",
+            "url": "https://www.heise.de/hintergrund/Softwaredefinierte-Fahrzeuge-Interview-mit-Intels-Automotive-CTO-Rebeca-Delgado-9984160.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/0/7/3/5/intel_whole_vehicle_graphic-d564562b3342683e.jpg",
+            "publishedAt": "2024-10-28T14:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nBislang erledigen sogenannte Electronic Control Units (ECU) Aufgaben im Auto. In einem Fahrzeug der Oberklasse stecken etwas über 100 dieser Steuergeräte. Sie überwachen den Gurts… [+2269 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Oliver Bünte",
+            "title": "Britisches Start-up rüstet Ford Elektro-Transporter zu autonomen Fahrzeugen um",
+            "description": "Oxa will nahezu beliebige Fahrzeuge mit selbstfahrender Technik ausrüsten können. Mit zwei Elektro-Transportern von Ford hat das bereits geklappt.",
+            "url": "https://www.heise.de/news/Britisches-Start-up-ruestet-Ford-Elektro-Transporter-zu-autonomen-Fahrzeugen-um-9999129.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/8/6/1/2/Oxa_Transporter-94a574439d51cde4.jpg",
+            "publishedAt": "2024-10-30T09:28:00Z",
+            "content": "Das britische Start-up Oxa, vormals Oxbotica, hat einen elektrischen Ford Transit sowie einen Ford Kleinbus mit der hauseigenen selbstfahrenden Technik Reference Autonomy Design (RAD) ausgerüstet. Da… [+1875 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Stefan Krempl",
+            "title": "Technikverband: Photonik soll Energiehunger von KI und Rechenzentren stillen",
+            "description": "Mit photonischen Ansätzen lässt sich die wachsende Nachfrage nach Rechenkraft energieeffizienter bewältigen, meint der VDE mit Blick auf die Rechenzentren.",
+            "url": "https://www.heise.de/news/Technikverband-Photonik-soll-Energiehunger-von-KI-und-Rechenzentren-stillen-9995601.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/6/7/9/2/Datenstrom-b68aa64ff23eb122.jpg",
+            "publishedAt": "2024-10-27T12:39:00Z",
+            "content": "Inhaltsverzeichnis\r\n\"Explodierende Datenmengen in allen Lebensbereichen steigern den Energiebedarf von Rechenzentren stetig und stellen eine erhebliche ökologische und ökonomische Belastung dar\", war… [+4513 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Oliver Bünte",
+            "title": "Jeff Bezos steckt Millionen in Start-up zur Entwicklung physischer Intelligenz",
+            "description": "Amazon-Gründer Jeff Bezos unterstützt das Robotik-Start-up Physical Intelligence zusammen mit anderen Investoren mit einem Millionenbetrag.",
+            "url": "https://www.heise.de/news/Physical-Intelligence-Amazon-Gruender-Bezos-investiert-in-KI-gestuetzte-Robotik-10009235.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/4/0/1/2/Waschmaschine_Pi0-0f8c7d6b6b769296.jpg",
+            "publishedAt": "2024-11-08T06:29:00Z",
+            "content": "Amazon-Gründer Jeff Bezos unterstützt zusammen mit anderen Investoren das Robotik-Start-up Physical Intelligence. Insgesamt 400 Millionen US-Dollar strecken die Anleger in das Unternehmen, dessen Wer… [+1699 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "dpa",
+            "title": "Schwarz Gruppe kooperiert umfassend mit Google",
+            "description": "Die Gruppe hinter Lidl und Kaufland baut eine eigene Cloud-Plattform auf. Ein Baustein dafür kommt nun überraschend vom US-Internetriesen Google.",
+            "url": "https://www.heise.de/news/Schwarz-Gruppe-kooperiert-umfassend-mit-Google-10035861.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/1/5/1/6/5/shutterstock_659536219-ae1bcbaf103dd4c9.jpg",
+            "publishedAt": "2024-11-14T16:17:00Z",
+            "content": "Inhaltsverzeichnis\r\nDie Schwarz Gruppe wird in ihren Rechenzentren künftig auch Office-Programme von Google anbieten. Der Konzern, der die Einzelhandelsketten Lidl und Kaufland betreibt, vereinbarte … [+1980 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Rainer Grimm",
+            "title": "Programmiersprache C++: Concurrency mit std::execution",
+            "description": "std::execution bietet ein Standard-C++-Framework für die Verwaltung der asynchronen Ausführung auf generischen Ausführungsressourcen.",
+            "url": "https://www.heise.de/blog/Programmiersprache-C-Concurrency-mit-std-execution-10035699.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/1/5/0/8/3/gleise-cff5b10e4aaa828b.jpg",
+            "publishedAt": "2024-11-18T13:23:00Z",
+            "content": "Für diesen Beitrag gibt es eine Planänderung. Mein ursprünglicher Plan war es, die C++26-Bibliothek nach der Kernsprache vorzustellen. Der Implementierungsstatus der Bibliothek ist jedoch nicht volls… [+5706 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Frank Neugebauer",
+            "title": "heise+ | Wazuh: Unternehmenssicherheit mit Open Source gewährleisten",
+            "description": "Angesichts ständiger Cyberangriffe ist der Schutz der Firmen-IT-Infrastruktur ein Muss. Die Securityplattform Wazuh vereint Monitoring- und Abwehrfunktionen.",
+            "url": "https://www.heise.de/ratgeber/Wazuh-Unternehmenssicherheit-mit-Open-Source-gewaehrleisten-10008627.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/3/7/0/0/wazuh_1_aufmacher_digital-a4511ef1814df64f.png",
+            "publishedAt": "2024-11-12T12:30:00Z",
+            "content": "Inhaltsverzeichnis\r\nDie quelloffene Securityplattform Wazuh unterscheidet sich von anderen Open-Source-Tools durch die vollständige Integration verschiedener Sicherheitsfunktionen wie Hostüberwachung… [+2709 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Dr. Thilo Weichert",
+            "title": "​Gesundheitsdatenforschung ja – aber bitte mit Datenschutz!​",
+            "description": "Die Forschung mit Gesundheitsdaten ist wichtig. Wichtig ist aber auch, dass Patienten vorher gefragt werden, erklärt Datenschützer Thilo Weichert.",
+            "url": "https://www.heise.de/hintergrund/Gesundheitsdatenforschung-ja-aber-bitte-mit-Datenschutz-10053620.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/2/1/0/9/9/shutterstock_2259081103-0a0edd160affdfc7-42ecdf2b2a85ceb0.webp",
+            "publishedAt": "2024-11-19T13:21:00Z",
+            "content": "Meinungsverschiedenheit zur Regierungspolitik? Diese scheint es bei der Frage, wie Gesundheitsdaten für die Medizinforschung genutzt werden sollen, nicht zu geben. Und dies ist schlecht! Schwarz-Rot … [+6590 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Maik Schmidt",
+            "title": "heise+ | Android-Apps zum Automatisieren von Projekten nutzen",
+            "description": "Projekte lassen sich mit Automatisierungs-Apps wie Tasker, Automate und MacroDroid mit dem Smartphone steuern. Wir erkunden die Einsatzmöglichkeiten der Apps.",
+            "url": "https://www.heise.de/ratgeber/Android-Apps-zum-Automatisieren-von-Projekten-nutzen-9992040.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/4/9/1/2/logo_mch_gr0ss_digital-5f8ecf15cda4c69a.jpg",
+            "publishedAt": "2024-11-06T09:30:00Z",
+            "content": "Inhaltsverzeichnis\r\nUm eigene Maker-Projekte mit dem Smartphone zu steuern, braucht man keine komplexen, maßgeschneiderten Apps zu entwickeln. Schneller und einfacher gelingt es oft mit Automatisieru… [+1209 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Johannes Schuster",
+            "title": "heise+ | iMac M4 im Test: Was Apples bunter All-in-One-Mac leistet",
+            "description": "Mit frischen Farben und M4-Chip geht der iMac 2024 an den Start, wahlweise mit entspiegeltem Display. Unser Test klärt, was die Neuerungen bringen.",
+            "url": "https://www.heise.de/tests/iMac-M4-im-Test-Was-Apples-bunter-All-in-One-Mac-leistet-10008828.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/3/8/0/5/e7e8fe5ef24940e0f2d4ecef3a33f4edcf6b1c7561fa1ce6ff477df9532220ce-cfab604131efa984.jpeg",
+            "publishedAt": "2024-11-08T08:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nApples All-In-One-Rechner war lange Zeit das Aushängeschild der Marke mit hohem Wiederkennungswert. Den hat sich der iMac auch in seiner aktuellen Form erhalten, aber in Sachen Be… [+1004 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Niklas Jan Engelking",
+            "title": "Stadt Detroit mit Blockchain-Ideen – Kryptowährungen als Zahlungsmittel geplant",
+            "description": "In Detroit können Bürger bei der Stadtverwaltung jetzt mit Bitcoin und Co. bezahlen. Die Stadt noch offenbar mehr mit der Blockchain-Technologie vor",
+            "url": "https://www.heise.de/news/Stadt-Detroit-mit-Blockchain-Ideen-Kryptowaehrungen-als-Zahlungsmittel-geplant-10013766.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/6/4/8/0/Detroit_Windsor_Auto_KFZ-0f8e3986e3f2f7a6.jpg",
+            "publishedAt": "2024-11-10T16:21:00Z",
+            "content": "Als bisher größte Stadt in den Vereinigten Staaten hat Detroit jetzt angekündigt, im kommenden Jahr Kryptowährungen als mögliches Zahlungsmittel bei der Stadtverwaltung einzuführen. Gebühren und Steu… [+1363 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Christian Hirsch",
+            "title": "heise+ | Intel Core Ultra 200S \"Arrow Lake\": Vergleichstest und Architektur​",
+            "description": "Mit aufgebohrten CPU-Kernen und Chiplet-Design will Intel mit den Desktop-Prozessoren Core Ultra 200S höhere Effizienz erreichen und die Ryzen 9000 schlagen.",
+            "url": "https://www.heise.de/tests/Intel-Core-Ultra-200S-Arrow-Lake-Vergleichstest-und-Architektur-9991952.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/4/8/5/9/cb2e6a2796c69c6af0ecd31aa21813b5faf438670bb270e247dedc5e7c959fab_Kopie-affbc968994c3132.jpg",
+            "publishedAt": "2024-10-24T15:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nNach 16 Jahren und 14 Generationen verabschiedet sich Intel von der Prozessorserie Core i. Bei den Core Ultra 200S \"Arrow Lake\" macht der Chiphersteller vieles anders als zuvor. S… [+1320 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Christian Rentrop",
+            "title": "heise+ | Wiederbelebte Spiele-Klassiker: Alte Spiele auf neuen Macs dank Source Ports",
+            "description": "Emulation war gestern: Source Ports bringen alte Games auf aktuelle Rechner. Mit Quellcodes programmieren Developer native Mac-Versionen. So spielen Sie mit.",
+            "url": "https://www.heise.de/ratgeber/Wiederbelebte-Spiele-Klassiker-So-geht-s-mit-Source-Ports-auf-dem-Mac-9988372.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/2/9/8/5/05_24_mac_source_ports_aufmacherv3_digital-d7f93fc01b3c7c38.png",
+            "publishedAt": "2024-10-23T05:30:00Z",
+            "content": "Inhaltsverzeichnis\r\nWie wäre es, wenn Sie Spieleklassiker aus der goldenen Zeit um die Jahrtausendwende auf Ihrem Mac ohne lahmen Emulator spielen könnten? Unabhängig davon, ob Sie einen Intel- oder … [+1424 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Moritz Förster",
+            "title": "Raus aus der Cloud: Der Eigenbetrieb rechnet sich mehr als gedacht",
+            "description": "37signals ist glücklich mit dem Umzug weg von AWS: Das eigene Rechenzentrum spart mehr Geld als gedacht. Und nächstes Jahr wird es mit dem Storage noch mehr.",
+            "url": "https://www.heise.de/news/Raus-aus-der-Cloud-Der-Eigenbetrieb-rechnet-sich-mehr-als-gedacht-9990467.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/4/1/1/3/cloud_x-2d3d593d198f95d5.png",
+            "publishedAt": "2024-10-22T14:36:00Z",
+            "content": "Knapp zwei Millionen US-Dollar will 37signals im Jahr mit dem Umzug raus aus der Cloud und zurück ins eigene Rechenzentrum einsparen deutlich mehr als die zunächst anvisierten sieben Millionen Dollar… [+2673 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Sebastian Staacks",
+            "title": "heise+ | Allround-App phyphox: Wie man Physik-Experimente mit dem Smartphone steuert",
+            "description": "Mit den Sensoren deines Smartphones kannst du dein komplettes Projekt steuern. Wie das mit der kostenfreien App phyphox funktioniert, zeigt dieser Artikel.",
+            "url": "https://www.heise.de/ratgeber/Allround-App-phyphox-Wie-man-Physik-Experimente-mit-dem-Smartphone-steuert-9986081.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/1/7/9/5/phyphox_aufmacher_quer-5f487b3c91a79283.jpg",
+            "publishedAt": "2024-10-28T16:30:00Z",
+            "content": "Inhaltsverzeichnis\r\nIhr habt bestimmt genau wie ich eine Schublade voll mit kleinen Breakout-Boards mit Sensoren. Wenn ihr nur lange genug mit Elektronik bastelt, entsteht unweigerlich eine bunte Mis… [+1696 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Monika Ermert",
+            "title": "Rotes Kreuz möchte schützendes Kennzeichen auch im Netz einführen",
+            "description": "Das Internationale Rote Kreuz will auch seine digitalen Ressourcen mit einem Kennzeichen schützen. Eine IETF-Arbeitsgruppe will bald mit den Arbeiten beginnen.",
+            "url": "https://www.heise.de/news/DIEM-Digitale-Embleme-fuer-Netzressourcen-von-Hilfsorganisationen-10005692.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/2/0/2/4/shutterstock_2254385255-0b9bc79b6d97fd75.jpg",
+            "publishedAt": "2024-11-06T11:55:00Z",
+            "content": "Inhaltsverzeichnis\r\nWeil der digitale Raum längst regulärer Kriegsschauplatz ist, will das Internationale Rote Kreuz auch seine digitalen Ressourcen geschützt sehen. Während Krankenhäuser durch Rotkr… [+3299 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Oliver Bünte",
+            "title": "Vierbeiniger Roboterhund Lynx saust auf Rädern durch schwieriges Gelände",
+            "description": "Roboterhund Lynx soll sich auch in unwegsamen Gelände schnell fortbewegen können. Das klappt besser mit Rädern als nur mit Beinen.",
+            "url": "https://www.heise.de/news/Vierbeiniger-Roboterhund-Lynx-saust-auf-Raedern-durch-schwieriges-Gelaende-10034758.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/1/4/5/9/7/Lynx-718a7c186f7eb60b.jpg",
+            "publishedAt": "2024-11-14T08:05:00Z",
+            "content": "Der vierbeinige Roboterhund Lynx des chinesischen Robotikunternehmens Deep Robotics bewegt sich auf Rädern vorwärts, was die Fortbewegung normalerweise auf weitgehend glatte Oberflächen beschränkt. D… [+2144 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Michael Jordan",
+            "title": "heise+ | Leichte Fototaschen im Vergleich: Smarter Schutz für kompaktes Equipment",
+            "description": "Viele Fotografen wollen statt mit großen Taschen nur noch mit leichtem Gepäck unterwegs sein. Wir haben kompakte Fototaschen von 20 Euro bis 600 Euro getestet.",
+            "url": "https://www.heise.de/tests/Leichte-Fototaschen-im-Vergleich-Smarter-Schutz-fuer-kompaktes-Equipment-10036580.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/1/5/5/3/1/df_0624_fototaschen_aufmacher_digital-8e5e624dc90491c0.jpg",
+            "publishedAt": "2024-11-19T12:30:00Z",
+            "content": "Inhaltsverzeichnis\r\nWer eine Kamera besitzt, benötigt früher oder später meistens aber früher eine passende Tasche, um diese zu transportieren und auch zu schützen. Besitzt der Fotograf jedoch keine … [+1285 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Dr. Volker Zota",
+            "title": "M136279841: Neue größte bekannte Mersenne-Primzahl mit GPU bestätigt",
+            "description": "Das GIMPS-Projekt feiert einen weiteren Erfolg: Die neue größte 52. Mersenne-Primzahl hat über 41 Millionen Stellen. GPUs lösten dabei CPUs bei der Suche ab.",
+            "url": "https://www.heise.de/news/M136279841-Neue-groesste-bekannte-Mersenne-Primzahl-mit-GPU-bestaetigt-9989131.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/3/3/8/5/mersenne-97d234f193d1aaaa.png",
+            "publishedAt": "2024-10-21T20:56:00Z",
+            "content": "Inhaltsverzeichnis\r\nBereits seit einigen Tagen macht in Mathematiker-Kreisen die Nachricht die Runde, dass vermutlich eine neue größte Primzahl entdeckt wurde; nun wurde das Ergebnis bestätigt. Das P… [+3201 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Martin Gerhard Loschwitz",
+            "title": "heise+ | SDN in OpenShift mit Open Virtual Networking – ein Überblick",
+            "description": "Red Hat setzt in OpenShift für SDN auf Open Virtual Networking, bei dem Open vSwitch und OpenFlow regeln, dass Pakete dort ankommen, wo sie hingehören.",
+            "url": "https://www.heise.de/hintergrund/SDN-in-OpenShift-mit-Open-Virtual-Networking-ein-Ueberblick-9982821.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/0/0/0/5/sdn_openshift-7a80efb003548179.png",
+            "publishedAt": "2024-10-22T10:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nGeht es nach dem Willen der Cloud- und Container-Verfechter, ist das moderne Rechenzentrum vor allem Software-defined. Für klassische Appliances ist da kein Platz mehr: Storage ma… [+2896 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Martin Holland",
+            "title": "Microsoft: Ab November mit Copilot Studio selbst KI-Agenten erstellen",
+            "description": "Ab kommenden Monat sollen Unternehmen mit Copilot Studio selbst KI-Agenten erstellen können, um Aufgaben zu automatisieren. Bei der Konkurrenz geht das schon.",
+            "url": "https://www.heise.de/news/Microsoft-Ab-November-mit-Copilot-Studio-selbst-KI-Agenten-erstellen-9989824.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/3/7/4/5/OMB-Copilot-Innovation-Hero-a51972ea7c1aeb0c.webp",
+            "publishedAt": "2024-10-22T10:57:00Z",
+            "content": "Microsoft hat angekündigt, dass die Kundschaft mit Copilot Studio ab November selbst KI-Agenten erstellen können soll, die auf ganz bestimmte Aufgaben zugeschnitten sind. Der US-Konzern nennt diese A… [+1843 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Greta Friedrich",
+            "title": "heise+ | KI-Systeme und Nachhaltigkeit: Interview mit Dr. Friederike Rohde",
+            "description": "Ein Team des Instituts für ökologische Wirtschaftsforschung hat untersucht, wie man KI-Systeme nachhaltiger gestalten kann. Ein Gespräch mit der Hauptautorin.",
+            "url": "https://www.heise.de/ratgeber/KI-Systeme-und-Nachhaltigkeit-Interview-mit-Dr-Friederike-Rohde-9982792.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/8/9/9/9/1/ct2324llmsschwe_130866_gref_a_online-b9cdb335fce3719e.jpg",
+            "publishedAt": "2024-10-22T08:30:00Z",
+            "content": "Inhaltsverzeichnis\r\nSprachmodelle nutzen große Energiemengen zum Training und große Wassermengen, um Server zu kühlen, in denen wiederum Ressourcen wie seltene Erden verbaut sind. Und auch in der Nut… [+757 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Axel Kannenberg",
+            "title": "Nach der Uni: Informatiker am Gefragtesten, Mediziner mit höchstem Gehalt​",
+            "description": "Über Nachfrage am Jobmarkt müssen sich Informatik-Absolventen laut einer Analyse keine Sorgen machen. Die Top-Gehälter zum Einstieg streichen aber andere ein.",
+            "url": "https://www.heise.de/news/Nach-der-Uni-Informatiker-am-Gefragtesten-Mediziner-mit-hoechstem-Gehalt-9992162.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/4/9/7/7/shutterstock_1302585151-5b30da36fd256450.jpg",
+            "publishedAt": "2024-10-24T05:46:00Z",
+            "content": "Wenn es um den Jobeinstieg nach der Uni geht, haben Informatiker laut einer Analyse des Bewerbungsdienstleisters cvapp.de die beste Chance. Im Vergleich von zehn Studienfächern wie Medizin, Pharmazie… [+1956 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Andreas Fertig",
+            "title": "heise+ | Softwareentwicklung: Ressourcen sparen mit der C++-Funktion constexpr",
+            "description": "Um ressourcenschonend zu programmieren, genügen schon kleine Veränderungen im Code. Der richtige Einsatz der Funktion constexpr nutzt RAM und ROM effizient.",
+            "url": "https://www.heise.de/ratgeber/Softwareentwicklung-Ressourcen-sparen-mit-der-C-Funktion-constexpr-9985998.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/1/7/4/4/constexpr_res-ea0f4e2e4a999816.png",
+            "publishedAt": "2024-10-23T07:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nSchon seit Version 11 kann C++ Dinge zur Kompilierzeit berechnen. Seitdem haben sich die damit verbundenen Möglichkeiten mit jeder neuen Version erweitert. War anfänglich nur eine… [+1577 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Stefan Krempl",
+            "title": "Gesetzentwurf: So soll Überwachung mit KI am Arbeitsplatz eingeschränkt werden",
+            "description": "Zwei Ministerien haben einen Entwurf für ein \"Beschäftigtendatengesetz\" auf den Weg gebracht. Die automatisierte Bewertung von Angestellten soll erlaubt werden.",
+            "url": "https://www.heise.de/news/Gesetzentwurf-So-soll-Ueberwachung-mit-KI-am-Arbeitsplatz-eingeschraenkt-werden-9995074.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/6/5/2/4/shutterstock_1322419640-13d7c6f875e9d63c.jpg",
+            "publishedAt": "2024-10-25T16:45:00Z",
+            "content": "Bundesarbeitsminister Hubertus Heil und seine Kollegin im Innenressort, Nancy Faeser (beide SPD) wollen für die automatisierte Bewertung von Beschäftigten und das Erstellen von Persönlichkeitsprofile… [+3276 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Mark Mantel",
+            "title": "NUC 14 Essential: Asus' Mini-PC mit unveröffentlichten Intel-Prozessoren",
+            "description": "Asus legt einen Mini-PC mit dem N150, N250 und Core 3 N355 auf. Intel selbst hat die CPUs noch gar nicht vorgestellt.",
+            "url": "https://www.heise.de/news/NUC-14-Essential-Asus-Mini-PC-mit-unveroeffentlichten-Intel-Prozessoren-9998204.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/8/1/3/7/Asus_NUC_14_Essential-6ee15a73dae6e5e3.jpg",
+            "publishedAt": "2024-10-29T15:07:00Z",
+            "content": "Asus stellt den voraussichtlich günstigsten NUC innerhalb der 14er-Baureihe vor, den NUC 14 Essential. Die Abkürzung führte Intel 2012 für besonders kleine PCs mit einem Volumen von nicht einmal eine… [+2450 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Niklas Jan Engelking",
+            "title": "Vorfall mit undichtem Raumanzug: NASA plant 2025 wieder ISS-Außenbordeinsätze",
+            "description": "Im kommenden Jahr sollen die NASA-Außenbordeinsätze an der ISS weitergehen. Nach einem Zwischenfall im Juni waren sie gestoppt worden.",
+            "url": "https://www.heise.de/news/Nach-Zwischenfall-NASA-Aussenbordeinsaetze-sollen-Anfang-2025-wieder-starten-10002659.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/0/4/2/9/iss071e208018_medium-98f3cfa684af9d2c.jpg",
+            "publishedAt": "2024-11-03T17:44:00Z",
+            "content": "Nach einem Zwischenfall mit einem undichten Raumanzug im Juni sollen die Außenbordeinsätze mit Anzügen der NASA an der Raumstation ISS Anfang 2025 weitergehen. Das sagte Bill Spetch, Operations and I… [+1460 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ben Schwan",
+            "title": "Headset mit ausgelagerter Technik: iPhone als Antwort auf Apples Kostenproblem",
+            "description": "Apples Vision Pro ist enorm teuer – und auch günstigere Modelle könnten bei 2000 Euro liegen. Der Konzern erwägt nun, das iPhone zu nutzen.",
+            "url": "https://www.heise.de/news/Headset-mit-ausgelagerter-Technik-iPhone-als-Antwort-auf-Apples-Kostenproblem-10002595.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/0/3/9/7/Screenshot_2024-11-03_at_14.24.37-718f6fbf9ef97f0e.png",
+            "publishedAt": "2024-11-04T10:30:00Z",
+            "content": "Nach wie vor macht Apple keine Angaben dazu, wie sich die Vision Pro verkauft. Konzernchef Tim Cook hatte allerdings kürzlich in einem Interview eingeräumt, dass es sich bei der ab 4000 Euro erhältli… [+2206 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ilona Krause",
+            "title": "heise-Angebot: iX-Workshop: Effektive zentrale Authentifizierung mit Entra ID",
+            "description": "Erfahren Sie, wie Sie Entra ID als Cloud-basierten Authentifizierungsdienst einsetzen und hybride Identitäten sicher verwalten.",
+            "url": "https://www.heise.de/news/iX-Workshop-Effektive-zentrale-Authentifizierung-mit-Entra-ID-9989073.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/3/3/5/6/Azure-Active-Directory-Ticker-Header-16-9-51d1b8d64ef44080.jpg",
+            "publishedAt": "2024-11-04T09:00:00Z",
+            "content": "Entra ID, bisher bekannt als Azure Active Directory (AAD), ist die Cloud-basierte Variante des Active Directory, die keine eigene Infrastruktur im Unternehmen beansprucht. Entra ID wird vollständig v… [+1116 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ilona Krause",
+            "title": "heise-Angebot: iX-Workshop IT-Grundschutz-Praktiker mit Zertifikat",
+            "description": "Erhalten Sie einen umfassenden Einblick in die Praxis der IT-Grundschutz-Methodik des BSI. Mit anschließender Prüfung und Zertifizierung.",
+            "url": "https://www.heise.de/news/iX-Workshop-IT-Grundschutz-Praktiker-mit-Zertifikat-9988997.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/3/3/1/7/IT-Grundschutz-Praktiker-Ticker-Header-16-9-a1ddb46c3d46ff95.jpg",
+            "publishedAt": "2024-10-30T09:00:00Z",
+            "content": "In den Unternehmen sind die Beauftragten bzw. die Fachkräfte für Informationssicherheit dafür verantwortlich, sichere IT-Konzepte zu entwickeln. Um sie bei dieser wichtigen Aufgabe zu unterstützen, s… [+1541 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Stefan Grundhoff",
+            "title": "Elektroauto: Fahrbericht Kleinwagen Hyundai Inster Long Range mit viel Platz",
+            "description": "In Südkorea ist der Hyundai Casper  einer der begehrtesten Kleinwagen. Jetzt kommt er als lässiger Hyundai Inster auch nach Europa.",
+            "url": "https://www.heise.de/tests/Elektroauto-Fahrbericht-Kleinwagen-Hyundai-Inster-Long-Range-mit-viel-Platz-10000578.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/9/3/6/8/Hyundai_Inster_LR-8-3e4ee70073e6e380.jpg",
+            "publishedAt": "2024-11-01T00:02:00Z",
+            "content": "Inhaltsverzeichnis\r\nIn Südkorea ist der Hyundai Casper mit seinem coolen 80er-Jahre-Design einer der begehrtesten Kleinwagen. Jetzt kommt dessen Elektroversion mit dem Namen Hyundai Inster nach Europ… [+4602 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Inge Schwabe",
+            "title": "heise-Angebot: Live-Webinar: Mit KI-Tools den Softwareentwicklungszyklus optimieren",
+            "description": "Rapid Prototyping, Code-Generierung, Fehleranalyse - erleben Sie, wie KI-Modelle die Softwareentwicklung auf ein neues Level heben. Frühbucherrabatt bis 7.11..",
+            "url": "https://www.heise.de/news/Live-Webinar-Mit-KI-Tools-den-Softwareentwicklungszyklus-optimieren-9996516.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/7/2/5/7/KI-gestuetzt-programmieren-Ticker-Header-16-9-58c3c13fe90470fd.jpg",
+            "publishedAt": "2024-11-01T09:00:00Z",
+            "content": "KI-gestützte Programmierung hat das Potenzial, Entwicklungsprozesse maßgeblich zu beschleunigen und zu optimieren. Dienste wie ChatGPT und Github Copilot unterstützen Entwickler weit über klassisches… [+1894 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Frank Schräer",
+            "title": "Amazon mit deutlich höheren Gewinnen, KI-Investitionen in Milliardenhöhe",
+            "description": "Der Sparkurs bremst Amazon nicht, im Gegenteil: Umsätze und Gewinne steigen und übertreffen die Erwartungen. Das ermöglicht Milliarden-Investitionen in KI.",
+            "url": "https://www.heise.de/news/Amazon-mit-deutlich-hoeheren-Gewinnen-KI-Investitionen-in-Milliardenhoehe-10001033.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/9/5/9/8/shutterstock_1434219221-8dac2553fd98c85a.jpg",
+            "publishedAt": "2024-11-01T03:31:00Z",
+            "content": "Inhaltsverzeichnis\r\nAmazon hat seine Verkaufszahlen und Gewinne im vergangenen Quartal erneut teilweise deutlich steigern können. Dies übertraf die Erwartungen der Börse, sodass die Aktie einen klein… [+3208 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Thomas Joos",
+            "title": "heise+ | Ausfallsicherheit und mehr Platz: Heimserver mit Unraid aufsetzen",
+            "description": "Unraid verwandelt handelsübliche Hardware in ein simpel zu wartendes NAS. Es kann Festplatten in unterschiedlicher Größe flexibel kombinieren. So gehen Sie vor.",
+            "url": "https://www.heise.de/ratgeber/Ausfallsicherheit-und-mehr-Platz-Heimserver-mit-Unraid-aufsetzen-10003311.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/0/7/7/0/mi2407_nas_aufmacher_digital-edf811f8eddc838a.jpg",
+            "publishedAt": "2024-11-06T08:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nMittels Network Attached Storage (NAS) kann man sich einen heimischen Netzwerkspeicher aufbauen, den man auch aus der Ferne steuern kann. Die Software Unraid macht aus normalen Ge… [+1718 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ilona Krause",
+            "title": "heise-Angebot: iX-Workshop: BCM-Praktiker mit Zertifikat",
+            "description": "Bereiten Sie sich auf Betriebsunterbrechungen und Krisen vor: Mit unserem BCM-Workshop nach BSI Standard 200-4 stärken Sie die Resilienz Ihres Unternehmens.",
+            "url": "https://www.heise.de/news/iX-Workshop-BCM-Praktiker-mit-Zertifikat-9989083.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/3/3/6/1/BCM-Praktiker-Ticker-Header-16-9-fa8258713129cf84.jpg",
+            "publishedAt": "2024-11-05T13:00:00Z",
+            "content": "In einer zunehmend vernetzten Welt sind Institutionen aller Art, von Behörden bis hin zu Unternehmen jeder Größe, komplexen Risiken ausgesetzt. Betriebsunterbrechungen, Notfälle und unerwartete Krise… [+1465 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Harald Weiss",
+            "title": "Gitex: Weltgrößte ITK-Messe – mit der CeBIT gelang das nicht",
+            "description": "In Dubai ging die diesjährige Gitex-Messe mit vielen Rekorden zu Ende. Warum funktioniert eine Mega-ITK-Messe in der Wüste – und nicht mehr in Deutschland?",
+            "url": "https://www.heise.de/news/Gitex-Weltgroesste-ITK-Messe-mit-der-CeBIT-gelang-das-nicht-9994775.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/6/3/6/9/5DR11162-d91bcf9b5e828cfd.jpg",
+            "publishedAt": "2024-10-26T05:51:00Z",
+            "content": "Die Gitex in Dubai hatte zusammen mit einer zugehörigen Startup-Ausstellung 8300 Aussteller. Das ist weitaus mehr, als die CeBIT in ihren besten Zeiten hatte. In über 40 Hallen war alles vor Ort, was… [+4739 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Bernd Heisterkamp",
+            "title": "heise+ | Für Quizspiele: ESP32-Buzzer mit RemoteXY im Eigenbau",
+            "description": "Selbstgebaute ESP32-Buzzer und eine RemoteXY-App sorgen bei Quizzen für Ordnung und faire Spielsteuerung mit Smartphone-Anzeige und typischen Sounds.",
+            "url": "https://www.heise.de/ratgeber/Fuer-Quizspiele-ESP32-Buzzer-mit-RemoteXY-im-Eigenbau-9977811.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/8/7/4/0/1/quiz_buzzer_aufmacher_quer-be8e26de5b8c73b1.jpg",
+            "publishedAt": "2024-10-29T09:30:00Z",
+            "content": "Inhaltsverzeichnis\r\nAuf der Suche nach etwas Unterhaltung für das 50-jährige Firmenjubiläum kam mir die Idee, ein Quiz mit Fragen rund um das Ereignis zu organisieren. Wie bei den bekannten Fernsehsh… [+1792 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "dpa",
+            "title": "Snap mit elf Millionen Nutzern mehr, weiterhin rote Zahlen",
+            "description": "Snapchat ist längst über die Anfänge mit von allein verschwindenden Bildern hinausgewachsen. Aber das Geldverdienen ist weiterhin ein Problem.",
+            "url": "https://www.heise.de/news/Snap-mit-elf-Millionen-Nutzern-mehr-weiterhin-rote-Zahlen-10001055.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/9/6/0/9/shutterstock_1195537387-5fd7f4470c40603e.jpg",
+            "publishedAt": "2024-11-01T06:07:00Z",
+            "content": "Die Foto- und Video-App Snapchat gewinnt kontinuierlich Nutzer hinzu, steckt aber weiterhin in den roten Zahlen fest. In den vergangenen drei Monaten stieg die Zahl täglich aktiver Nutzer weltweit um… [+990 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Mark Mantel",
+            "title": "Samsung-Flash: Angeblich 400 Speicherlagen mit Hybrid-Bonding",
+            "description": "Die Technik, die AMD bei den Ryzen X3D verwendet, will Samsung offenbar auch bei Speicher für SSDs einsetzen, in Anlehnung an YMTC.",
+            "url": "https://www.heise.de/news/Samsung-Flash-Angeblich-400-Speicherlagen-mit-Hybrid-Bonding-9997918.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/7/9/8/6/Samsung_VNAND_V9-7fdfabfe9fe2ba29.webp",
+            "publishedAt": "2024-10-29T12:41:00Z",
+            "content": "Samsung will ab 2026 offenbar NAND-Flash-Bausteine mit mindestens 400 Speicherlagen produzieren, vom Hersteller V-NAND V10 genannt. Diese Chips sollen die Kapazität von SSDs weiter erhöhen. Samsung s… [+1695 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Christof Windeck",
+            "title": "Vor 30 Jahren: Intel Pentium mit FDIV-Bug",
+            "description": "Es ist einer der berühmtesten Bugs der Computergeschichte: 1994 wurde bekannt, dass der Pentium 60 Gleitkommazahlen nicht immer richtig dividiert.",
+            "url": "https://www.heise.de/news/Vor-25-Jahren-Intel-Pentium-mit-FDIV-Bug-4571751.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/7/7/8/5/9/1/Pentium-90-FDIV-SX879-SX957-16-9-8c38ef09829a9dd9.jpeg",
+            "publishedAt": "2024-10-30T17:41:00Z",
+            "content": "56 Jahre hat die Firma Intel mittlerweile auf dem Buckel, aber vor 30 Jahren leistete sie sich einen Fehler mit großen Folgen: Am 30. Oktober 1994 veröffentlichte der inzwischen verstorbene Mathemati… [+1916 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Frank Schräer",
+            "title": "Nintendo bestätigt Software-Kompatibilität der Switch mit Nachfolger-Konsole",
+            "description": "Der Nachfolger der Nintendo Switch kann auch bisherige Switch-Titel spielen. Der Switch-Online-Dienst wird ebenfalls nutzbar sein. Fehlt nur noch die Konsole.",
+            "url": "https://www.heise.de/news/Nintendo-bestaetigt-Software-Kompatibilitaet-der-Switch-mit-Nachfolger-Konsole-10007451.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/3/0/4/4/shutterstock_1614477220-e68a06e95a76a1d2.jpg",
+            "publishedAt": "2024-11-07T03:33:00Z",
+            "content": "Spiele für Nintendos Switch-Spielkonsole werden auch auf dem bislang weiterhin nicht vorgestellten Nachfolgemodell laufen. Das hat das Unternehmen anlässlich der Präsentation der letzten Quartalszahl… [+3246 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Axel Kannenberg",
+            "title": "Deutsche Telekom testet Bitcoin-Mining mit überschüssigem Solarstrom​",
+            "description": "Solarstrom wird nicht immer dann erzeugt, wenn er benötigt wird. Eine Tochter der Deutschen Telekom testet mit Partnern, ob man damit nicht Bitcoins minen kann.",
+            "url": "https://www.heise.de/news/Deutsche-Telekom-testet-Bitcoin-Mining-mit-ueberschuessigem-Solarstrom-10005064.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/1/6/8/7/shutterstock_709695901_1_-d476d9803e61ad6e.jpg",
+            "publishedAt": "2024-11-05T15:21:00Z",
+            "content": "Die Deutsche-Telekom-Tochter Telekom MMS und das Bankhaus Metzler testen in einem Projekt die Nutzung von überschüssigem Solarstrom für das Bitcoin-Mining. Die Partner bezeichnen das als \"digitale mo… [+1950 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ben Schwan",
+            "title": "Bericht: Apple beauftragt Foxconn mit Bau neuer M4-KI-Server",
+            "description": "Nicht nur Macs für Endkunden bekommen neue Chips. Auch Apples KI-Rechenzentren werden künftig regelmäßig überholt, heißt es jetzt aus Asien.",
+            "url": "https://www.heise.de/news/Bericht-Apple-beauftragt-Foxconn-mit-Bau-neuer-M4-KI-Server-10009117.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/3/9/5/2/Apple-M4-chip-series-hero-lp-9ef90bcb4f8d8372-ffdb1e547ed5a71d.jpeg",
+            "publishedAt": "2024-11-08T09:17:00Z",
+            "content": "Apple will zeitnah die neuen M4-SoCs auch in seiner Apple-Intelligence-Infrastruktur einsetzen. Dazu sollen Server, die derzeit noch den M2 Ultra verwenden, ersetzt werden, berichtet die japanische W… [+2212 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Hajo Schulz",
+            "title": "heise+ | ESP32-Bastelprojekt: \"On Air\"-Lampe mit WLAN",
+            "description": "Vor Studios warnt eine rote Lampe mit der Aufschrift \"On Air\", wenn eine Aufnahme läuft. Mit etwas Bastelei bekommt man so etwas auch für Videokonferenzen hin.",
+            "url": "https://www.heise.de/ratgeber/ESP32-Bastelprojekt-On-Air-Lampe-mit-WLAN-10004137.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/1/2/0/4/6a6aca627f059862d692a46dccb2dcf73668559af307382c6becb7361cd3866d-03e68e8bbcbde360.jpg",
+            "publishedAt": "2024-11-11T09:30:00Z",
+            "content": "Inhaltsverzeichnis\r\nSeit ich meine Arbeitszeit überwiegend im Homeoffice verbringe, höre ich mit schöner Regelmäßigkeit mehrmals am Tag die Frage: \"Kann ich kurz reinkommen?\" Meine Frau hat mir irgen… [+2277 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Oliver Bünte",
+            "title": "Fahrradfelgen-Design: Modulare Drohne Modovolo Lift bleibt länger in der Luft",
+            "description": "Drohnen sollen mit einer Akkuladung möglichst lange in der Luft bleiben. Modovolo hat mit einem Fahrradfelgen-Design einen neuen Ansatz dafür gefunden.",
+            "url": "https://www.heise.de/news/Modovolo-Lift-Modulare-Drohne-mit-technischen-Finessen-und-sehr-langer-Flugzeit-10029551.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/1/2/5/9/7/Modovolo_Lift-45de762f9b5cac53.jpg",
+            "publishedAt": "2024-11-13T06:57:00Z",
+            "content": "Das US-amerikanische Drohnen-Start-up Modovolo hat die \"Modovolo Lift\"-Drohne entwickelt, die mit verschiedenen technischen Eigenschaften wie etwa hoher Motordrehzahl bei langsam laufenden großen Rot… [+2726 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Christof Windeck",
+            "title": "RISC-V-Modul für Framework Laptop jetzt lieferbar",
+            "description": "Außer mit x86-Prozessoren von AMD oder Intel gibt es den reparaturfreundlichen Framework Laptop 13 nun auch mit RISC-V-CPU.",
+            "url": "https://www.heise.de/news/RISC-V-Modul-fuer-Framework-Laptop-jetzt-lieferbar-10047210.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/1/9/5/3/6/Framework-RV-16-9-408795657bd6aa75.jpg",
+            "publishedAt": "2024-11-18T15:34:00Z",
+            "content": "Die im Juni angekündigte Kooperation zwischen den Firmen Framework und DeepComputing trägt nun Früchte: Im Rahmen eines \"Early Access\"-Programms ist das Mainboard DC-ROMA für den Framework Laptop 13 … [+1115 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Moritz Förster",
+            "title": "Windows 365: Microsoft bringt dedizierte Cloud-PCs",
+            "description": "Der Vergleich mit Chromebooks liegt nahe: Für Videokonferenzen & Co. bringt Microsoft Rechner auf den Markt, die nur mit Windows 365 funktionieren.",
+            "url": "https://www.heise.de/news/Windows-365-Microsoft-bringt-dedizierte-Cloud-PCs-10059527.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/2/2/7/0/6/Windows_365_Link_with_two_monitors-0a975ae67f95aa4e.png",
+            "publishedAt": "2024-11-19T13:45:00Z",
+            "content": "Als Windows 365 Link bezeichnet Microsoft seine neuen Cloud-Rechner. Sie bauen auf dem gleichnamigen Dienst auf, der das komplette Betriebssystem samt Anwendungen von Microsofts Servern zur Verfügung… [+2281 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Niklas Jan Engelking",
+            "title": "Nach Rekordzulauf: Bluesky kämpft mit einer Welle von Content-Beschwerden",
+            "description": "Zuletzt kamen Millionen von neuen Nutzern zu Bluesky. Mit ihnen kamen aber auch Trolle, Betrüger oder Spammer – nun wird Bluesky mit Beschwerden überflutet.",
+            "url": "https://www.heise.de/news/Nach-Rekordzulauf-Bluesky-kaempft-mit-einer-Welle-von-Content-Beschwerden-10040093.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/1/7/0/0/3/shutterstock_2517689041-66b73beb9966ee1b.jpg",
+            "publishedAt": "2024-11-17T16:02:00Z",
+            "content": "Inhaltsverzeichnis\r\nAus einer großen Nutzerzahl erwächst große Verantwortung diese Erfahrung müssen die Verantwortlichen bei der stark wachsenden Social-Media-Plattform Bluesky gerade machen. Nachdem… [+3066 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Tom Damhof",
+            "title": "heise+ | Bastelprojekt mit ESP32: Abonnentenzähler für Youtube bauen​",
+            "description": "Mit einem ESP32 lässt sich ein Zähler für Youtube-Abonnenten bauen. Dank eines Helligkeitssensors passt sich das Display automatisch an die Umgebung an.",
+            "url": "https://www.heise.de/ratgeber/Bastelprojekt-mit-ESP32-Abonnentenzaehler-fuer-Youtube-bauen-9983037.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/0/1/2/6/unnamed-a6ae3c256ac1d42d.jpg",
+            "publishedAt": "2024-10-21T08:30:00Z",
+            "content": "Inhaltsverzeichnis\r\nWer einen Youtube-Kanal betreibt, möchte oft live sehen, wie viele Abonnenten er oder sie hat. Natürlich kann man immer wieder das Handy entsperren und in der App nachschauen aber… [+1451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Urs Mansmann",
+            "title": "heise+ | Mobilfunk-Prepaidtarife mit langer Laufzeit im Vergleich",
+            "description": "Eine Alternative zu klassischen Prepaidtarifen fürs Smartphone sind praktische und günstige Jahrestarife mit voller Kostenkontrolle. Es gibt aber Nachteile.",
+            "url": "https://www.heise.de/tests/Mobilfunk-Prepaidtarife-mit-langer-Laufzeit-im-Vergleich-9997379.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/7/7/0/6/3836923f97bac86a2a974bb09caf59036f4a2d20f984ce157df15ab2e5af07e2-b7c1f6027340b368.jpg",
+            "publishedAt": "2024-10-31T13:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nEin Prepaidkonto mit einem normalen Tarif will alle vier Wochen gefüttert werden. Wer schusselt, die Hinweis-SMS ignoriert und das Konto leerlaufen lässt, steht plötzlich ohne Int… [+1346 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Imke Stock",
+            "title": "Justiz am Limit – mit KI gegen Personalmangel und Verfahrensberge",
+            "description": "Bleibt die Gerechtigkeit auf der Strecke? Die Justiz ächzt unter Masse und Umfang der Verfahren. KI soll helfen. Von der Umsetzung einer Vision in die Praxis.",
+            "url": "https://www.heise.de/hintergrund/Missing-Link-Justiz-am-Limit-mit-KI-gegen-Personalmangel-und-Verfahrensberge-9991737.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/4/7/3/7/shutterstock_1588823989-d3e3e5b5e65aea07.jpg",
+            "publishedAt": "2024-10-29T07:36:00Z",
+            "content": "Inhaltsverzeichnis\r\nDie Justiz ächzt unter der Last unbearbeiteter Verfahren. Am Jahresende 2023 waren nach Auswertungen des Statistischen Bundesamts bundesweit noch 923.452 Verfahren offen. Was also… [+5129 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ben Schwan",
+            "title": "Magic-Zubehör: Nun mit USB-C – sonst ändert sich nix",
+            "description": "Wer auf ein Redesign von Apples Eingabegeräten gehofft hat, wird enttäuscht. Immerhin hat nun das leidige Lightning-Kabel ausgedient.",
+            "url": "https://www.heise.de/news/Magic-Zubehoer-Nun-mit-USB-C-sonst-aendert-sich-nix-9997110.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/7/5/6/6/usbckey-163c36aa4fe884e1.png",
+            "publishedAt": "2024-10-29T10:08:00Z",
+            "content": "Mit der Vorstellung des neuen iMac M4 am Montag hat Apple nun auch bei seinen Eingabegeräten in Sachen USB-C aufgeräumt eine Neuerung, die Beobachter lange erwartet hatten. Damit sind Zubehörprodukte… [+2283 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Martin Holland",
+            "title": "In Südkorea wird der erste Kampfpanzer mit Wasserstoffantrieb entwickelt",
+            "description": "Eine Hyundai-Tochter entwickelt für Südkoreas Armee einen Kampfpanzer der nächsten Generation. Der soll angeblich dank Wasserstoff besonders leise sein.",
+            "url": "https://www.heise.de/news/Produktion-ab-2040-Suedkoreas-naechster-Kampfpanzer-soll-mit-Wasserstoff-fahren-9999353.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/8/7/2/8/img-next01-bg-b31fdbc02c45e08d.jpg",
+            "publishedAt": "2024-10-30T11:24:00Z",
+            "content": "Der südkoreanische Maschinenbaukonzern Hyundai Rotem entwickelt den weltweit ersten Kampfpanzer, der mit Wasserstoff betrieben wird. Das berichten südkoreanische Medien unter Berufung auf anonyme Que… [+1735 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Daniel Herbig",
+            "title": "Verkaufsverbot für Handys: Oppo einigt sich mit InterDigital",
+            "description": "Oppo hat sich mit dem US-Patentverwerter InterDigital geeinigt. Einer Rückkehr von OnePlus-Handys nach Deutschland steht damit wohl nichts im Weg.",
+            "url": "https://www.heise.de/news/Verkaufsverbot-fuer-Handys-Oppo-einigt-sich-mit-InterDigital-9999911.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/9/0/2/2/shutterstock_1904245111-fd9caf156a74d1e0.jpg",
+            "publishedAt": "2024-10-30T14:46:00Z",
+            "content": "Das chinesische Tech-Unternehmen Oppo und der US-Patentverwerter InterDigital haben ihre Patentstreitigkeiten beigelegt. In einem Statement spricht der Handy-Hersteller Oppo, zu dem auch die Marke On… [+1576 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Falk Sippach",
+            "title": "heise+ | Java 23 mit erweitertem Pattern Matching im Test",
+            "description": "Java 23 enthält einige Features auf Wiedervorlage, aber auch neue. Es gibt mehr Optionen für Entwickler beim Pattern Matching und Markdown-Syntax für JavaDoc.",
+            "url": "https://www.heise.de/tests/Java-23-mit-erweitertem-Pattern-Matching-im-Test-9981669.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/8/9/3/9/5/java23-677bfe185cd71549.png",
+            "publishedAt": "2024-10-22T14:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nDas JDK 23 enthält einige Features, die als Preview oder Inkubator enthalten sind. Die Macher des OpenJDK wollen ihre Ideen möglichst früh unters Volk bringen, um Feedback zu beko… [+2138 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Anke Brandt",
+            "title": "heise-Angebot: c't-Webinar: Mit digitalen Zwillingen zum digitalen Produktpass",
+            "description": "Im Webinar erfahren Sie, wie Sie Ihre Daten für den digitalen Produktpass aufbereiten, um den Anforderungen der Ökodesign-Verordnung nachzukommen.",
+            "url": "https://www.heise.de/news/c-t-Webinar-Mit-digitalen-Zwillingen-zum-digitalen-Produktpass-9988541.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/3/0/7/3/digitaler_produktpass_ticker-1920x1080px-9679b1da8edb7f7c.png",
+            "publishedAt": "2024-10-28T13:00:00Z",
+            "content": "Die europäische Ökodesign-Verordnung (ESPR) bringt insbesondere für produzierende Unternehmen die Notwendigkeit mit sich, ihre Geschäftsmodelle anzupassen. Da die EU eine zügige Implementierung anstr… [+2166 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Oliver Bünte",
+            "title": "Roboter spielt live Cello mit dem Malmö Symphonie Orchester",
+            "description": "Ein Roboter bestehend aus zwei Industrieroboterarmen hat als \"Gastsolist\" ein Stück zusammen mit einem schwedischen Symphonieorchester vor Publikum gespielt.",
+            "url": "https://www.heise.de/news/Roboter-spielt-live-Cello-mit-dem-Malmoe-Symphonie-Orchester-9998466.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/8/2/7/5/Malmo___Live_Konzerthus-92a8733bc2ab451e.jpg",
+            "publishedAt": "2024-10-29T16:50:00Z",
+            "content": "Ein zweiarmiger Industrieroboter, der mit einigen 3D-gedruckten Teilen modifiziert worden war, hat zusammen mit dem Malmö Symphony Orchester live ein Konzert vor Publikum auf einem Cello gespielt. Da… [+1728 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Marvin Strathmann",
+            "title": "heise+ | Home Assistant: Einführung in Templates mit Jinja",
+            "description": "Jinja erfüllt in Home Assistant die Aufgabe einer kleinen Programmiersprache: Mit den Templates sind Schleifen, Bedingungen und Variablen möglich.",
+            "url": "https://www.heise.de/ratgeber/Home-Assistant-Einfuehrung-in-Templates-mit-Jinja-9850150.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/5/9/8/0/1/aufmacher-jinja-70685bcac9773e09.png",
+            "publishedAt": "2024-10-28T06:30:00Z",
+            "content": "Inhaltsverzeichnis\r\n{% elif %}, {{ oder {% endfor %} wer sich länger mit der kostenlosen Smart-Home-Zentrale Home Assistant beschäftigt, wird irgendwann auf diese kryptischen Zeichen stoßen. Was am A… [+1494 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "dpa",
+            "title": "Russland scheidet beim CERN aus – ein Ende mit Folgen",
+            "description": "Jahrzehntelang arbeiteten am europäischen Kernforschungszentrum CERN russische Wissenschaftler mit, damit ist bald Schluss. Wissenschaftler erklären die Folgen.",
+            "url": "https://www.heise.de/news/Russland-scheidet-beim-CERN-aus-ein-Ende-mit-Folgen-10002509.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/0/3/5/4/3D_cut_dipole_tunnel_montage_photo_corr-f23bfa5997c15c98.jpg",
+            "publishedAt": "2024-11-03T10:55:00Z",
+            "content": "Inhaltsverzeichnis\r\nDas Ende der jahrzehntelangen Zusammenarbeit mit Russland steht bei der Europäischen Organisation für Kernforschung (CERN) in Genf bevor negative Folgen für die Wissenschaft sind … [+4054 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Olivia von Westernhagen",
+            "title": "heise+ | Malware-Analysetool: Schadpotenzial von Daten mit Qu1cksc0pe ermitteln",
+            "description": "Qu1ckSc0pe in Desinfec’t unterzieht Programme, Dateien und PDFs einem schnellen Scan. Der hilft, Bedrohungen zu erkennen und Analysetools auszuwählen.",
+            "url": "https://www.heise.de/ratgeber/Malware-Analysetool-Schadpotenzial-von-Daten-mit-Qu1cksc0pe-ermitteln-10001929.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/0/0/6/2/ct2324malware_a_130521_des_uwei_online-4352c625d4545aa8.jpg",
+            "publishedAt": "2024-11-06T11:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nBei einem IT-Sicherheitsvorfall drängt die Zeit: Es gilt, sich zügig einen ersten Überblick über verdächtige Dateien zu verschaffen, Fehlalarme zu identifizieren und vielversprech… [+1579 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Anke Brandt",
+            "title": "heise-Angebot: c't-Workshop: CI/CD mit GitLab effektiv nutzen",
+            "description": "Der Workshop vermittelt Entwicklern den Umgang mit GitLabs CI-Funktionen: Sie lernen, Softwareprojekte effizient zu bauen, zu testen und zu veröffentlichen.",
+            "url": "https://www.heise.de/news/c-t-Workshop-CI-CD-mit-GitLab-effektiv-nutzen-10007744.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/3/2/1/2/GitLab_CICD-692537fea018ed4a.png",
+            "publishedAt": "2024-11-07T13:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nGitLab erleichtert als integrierte DevOps-Plattform die Zusammenarbeit in Entwicklerteams. Neben Repository-Verwaltung und Issue-Tracking bietet GitLab auch leistungsfähige Funkti… [+2540 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Stefan Krempl",
+            "title": "Studie: Jährlich müssen 4 Millionen Haushalte mit Glasfaser erschlossen werden",
+            "description": "Es sieht schlecht aus fürs Regierungsziel \"Glasfaser für alle\" bis 2030, hat eine Analyse für den Verband Anga ergeben. Die Ansprüche von Power-Nutzern steigen.",
+            "url": "https://www.heise.de/news/Studie-Jaehrlich-muessen-4-Millionen-Haushalte-mit-Glasfaser-erschlossen-werden-10008427.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/3/5/9/3/shutterstock_2393086171-79c1528b9448152f.jpg",
+            "publishedAt": "2024-11-07T16:15:00Z",
+            "content": "Inhaltsverzeichnis\r\nDie Bundesregierung peilt mir ihrer Gigabitstrategie \"Glasfaser für alle\" bis 2030 an. Dieses Ziel wird sich laut einer Marktstudie, die der Breitbandverband Anga anlässlich der F… [+6833 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ulrike Kuhlmann",
+            "title": "Vorsicht, Kunde! – der c’t-Podcast: Solaranlagenkauf mit Hindernissen",
+            "description": "Wer Strom produzieren möchte, kann sich eine Photovoltaikanlage installieren lassen. Danach muss man nur einen Stromtarif wählen – soweit aber nur die Theorie.",
+            "url": "https://www.heise.de/news/Vorsicht-Kunde-der-c-t-Podcast-Solaranlagenkauf-mit-Hindernissen-10007381.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/3/0/0/7/c_t_Podcast_VorsichtKunde_16_9-8867e5842f3baf37.jpg",
+            "publishedAt": "2024-11-08T05:00:00Z",
+            "content": "Wer Solar auf dem Dach haben möchte, muss sich mit vielen Dingen beschäftigen: Wer installiert die Photovoltaikanlage? Soll der produzierte Strom direkt eingespeist werden oder lohnt es sich, ihn übe… [+3397 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Kathrin Stoll",
+            "title": "Nordkoreanische Kriminelle zielen mit Mac-Malware auf Kryptofirmen",
+            "description": "Sicherheitsforscher vermuten nordkoreanische Angreifer hinter einer macOS-Malware-Kampagne, die auf Kryptofirmen abzielt.",
+            "url": "https://www.heise.de/news/Nordkoreanische-Kriminelle-zielen-mit-Mac-Malware-auf-Kryptofirmen-10013123.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/6/1/5/1/shutterstock_1378498490-a4647d4fe8cd2430.jpg",
+            "publishedAt": "2024-11-09T05:40:00Z",
+            "content": "IT-Sicherheitsforscher von Sentinel haben eine neue Malware-Kampagne entdeckt, die sie der nordkoreanischen Cyberkriminellen-Gruppierung Blue Noroff zuschreiben. Mit einer macOS-spezifischen mehrstuf… [+3020 chars]"
+        },
+        {
+            "source": {
+                "id": "die-zeit",
+                "name": "Die Zeit"
+            },
+            "author": "ZEIT ONLINE: wochenmarkt - Silvio Knezevic",
+            "title": "Oktopus mit Kartoffeln: Pulpo mit Kartoffeln",
+            "description": "Erinnern Sie sich noch an diesen wunderbaren gegarten Oktopus im Sommerurlaub am Meer? Wir haben Ihnen das Rezept besorgt und lüften das Geheimnis seiner Zartheit.",
+            "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024/07/oktopus-pulpo-kartoffeln-rezept-wochenmarkt",
+            "urlToImage": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024/07/mein-kroatien-bild-7/wide__1300x731",
+            "publishedAt": "2024-11-08T16:18:09Z",
+            "content": "Seit vielen Jahren fotografiert der Münchner Silvio Knezevic die Wochenmarkt-Kolumne des ZEITmagazins. Seine Eltern kommen aus Kroatien, er verbringt jeden Sommer dort. Für unser WOCHENMARKT-Magazin … [+363 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Frank Schräer",
+            "title": "Hunderte Verhaftungen in Südkorea wegen Millionenbetrug mit Kryptowährungen",
+            "description": "Ein Influencer mit YouTube-Kanal hat mit teils wertlosen Kryptocoins rund 15.000 Personen um Millionen betrogen. Es ist der bisher größte Krypto-Scam Südkoreas.",
+            "url": "https://www.heise.de/news/Hunderte-Verhaftungen-in-Suedkorea-wegen-Millionenbetrug-mit-Kryptowaehrungen-10034634.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/1/4/5/3/2/shutterstock_1976944238-5e18b8fbf881e81c.jpg",
+            "publishedAt": "2024-11-14T03:33:00Z",
+            "content": "In Südkorea hat die Polizei 215 Personen verhaftet, die des bislang größten Kryptobetrugs dieses Landes verdächtigt werden. Lokale Medien berichten, dass 15.304 Personen um insgesamt 325,6 Milliarden… [+2269 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Andrea Trinkwalder",
+            "title": "heise+ | Künstliche Intelligenz: Interview mit Aleph-Alpha-Gründer Jonas Andrulis",
+            "description": "Deutschlands Antwort auf OpenAI ist inzwischen auf dem Boden der Tatsachen gelandet. Im Gespräch erklärt der Aleph-Alpha-Chef die Ausrichtung des Start-ups.",
+            "url": "https://www.heise.de/hintergrund/Kuenstliche-Intelligenz-Interview-mit-Aleph-Alpha-Gruender-Jonas-Andrulis-10005813.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/2/0/8/6/682_ted_ai_hires_e75a1680-c8ca8b989f9561cd.jpg",
+            "publishedAt": "2024-11-11T12:30:00Z",
+            "content": "Inhaltsverzeichnis\r\nEs zeichnet sich klar ab: Sowohl die KI-Szene Österreichs als auch die deutsche zieht sich aus dem milliardenschweren, ressourcenintensiven Wettbewerb um den am schlauesten wirken… [+1248 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Tim Klein",
+            "title": "Die Produktwerker: Konflikte mit Stakeholdern – von Spannungen zu Lösungen",
+            "description": "Konflikte mit Stakeholdern sind für Product Owner unvermeidlich. Bernd Joussen, erfahrener Coach und Mediator, erklärt im Podcast, wie man sie meistert.",
+            "url": "https://www.heise.de/blog/Die-Produktwerker-Konflikte-mit-Stakeholdern-von-Spannungen-zu-Loesungen-10014097.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/6/6/5/1/produktwerker-3f367273bb52c1f5.png",
+            "publishedAt": "2024-11-11T12:07:00Z",
+            "content": "Inhaltsverzeichnis\r\nIn dieser Folge geht es darum, Konflikte mit Stakeholdern zu meistern. Konflikte sind im Produktmanagement fast unvermeidlich, da unterschiedliche Interessengruppen oft widersprüc… [+3781 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Detlef Borchers",
+            "title": "Zahlen, bitte! – 109 Minuten Thriller mit watergatehafter Überwachung​",
+            "description": "Francis Coppolas filmischer Thriller \"Der Dialog\" thematisierte die Ängste durch Überwachung mit modernen Mitteln. Er erschien in der Zeit der Watergate-Affäre.",
+            "url": "https://www.heise.de/hintergrund/Zahlen-bitte-109-Minuten-Thriller-mit-watergatehafter-Ueberwachung-10022666.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/1/0/1/0/9/Overlay_Zahlenbitte_1_25_-45089c8c951531d0.png",
+            "publishedAt": "2024-11-12T12:37:00Z",
+            "content": "Inhaltsverzeichnis\r\nIm Herbst 1974 kam ein Film in die westdeutschen Kinos, der erstmals das ganze Hightech-Besteck der Überwachungstechnik zeigte. \"The Conversation\" (deutscher Titel: Der Dialog) vo… [+6487 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Malte Kirchner",
+            "title": "ChatGPT für macOS mit neuer Integration in Entwickler-Tools",
+            "description": "Die ChatGPT-App für den Mac kann jetzt auf Wunsch Bildschirminhalte von Dritt-Apps einlesen. Den Anfang macht unter anderem Xcode von Apple.",
+            "url": "https://www.heise.de/news/ChatGPT-fuer-macOS-mit-neuer-Integration-in-Entwickler-Tools-10038738.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/1/6/3/0/9/AD_4nXesCPqgHPkzxwReZtnSfK7kSsZeaFze2AH3npFKHgzUpXq4lWAJG1ZZr48tkVAT_G3FgI2_8Zc3-n6XaycRc-Sh1sAn8P74OmMUUr1ReOdGY0dPGsyuqUUbiIW4-WA7wUKh9wCwhQ-2f3af21d687d59e7.png",
+            "publishedAt": "2024-11-15T12:12:00Z",
+            "content": "Die ChatGPT-App für den Mac wird um die Möglichkeit erweitert, dass der Chatbot Bildschirminhalte in bestimmten macOS-Apps lesen kann. Im Fokus stehen dabei vor allem Entwickler-Tools. Zu den unterst… [+1929 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ilona Krause",
+            "title": "heise-Angebot: iX-Workshop: BCM-Praktiker mit Zertifikat",
+            "description": "Bereiten Sie sich auf Betriebsunterbrechungen und Krisen vor: Mit unserem BCM-Workshop nach BSI Standard 200-4 stärken Sie die Resilienz Ihres Unternehmens.",
+            "url": "https://www.heise.de/news/iX-Workshop-BCM-Praktiker-mit-Zertifikat-10019728.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/8/9/0/2/BCM-Praktiker-Ticker-Header-16-9-fa8258713129cf84.jpg",
+            "publishedAt": "2024-11-17T09:00:00Z",
+            "content": "In einer zunehmend vernetzten Welt sind Institutionen aller Art, von Behörden bis hin zu Unternehmen jeder Größe, komplexen Risiken ausgesetzt. Betriebsunterbrechungen, Notfälle und unerwartete Krise… [+1470 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Peter Siering",
+            "title": "heise+ | Alte Nachtspeicheröfen smart machen – mit ESP & Co.",
+            "description": "Ein c’t-Redakteur modernisiert alte Nachtspeicheröfen mit ESPs. Ein technischer Sprung von der Ära der AKWs zu smartem Heizen.",
+            "url": "https://www.heise.de/hintergrund/Alte-Nachtspeicheroefen-smart-machen-mit-ESP-Co-10004407.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/1/3/4/7/wod.a_130702_vc60nachtspeicher2_digital-99263b6665e09cb7.jpg",
+            "publishedAt": "2024-11-12T11:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nDie in 1960er-Jahren erfundenen Nachtspeicheröfen verwandeln Strom in Wärme. Sie stammen aus einer Zeit, als Strom aus Kohle- und später Atomkraftwerken besonders in den Nachtstun… [+1766 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Daniel Augustin",
+            "title": "heise+ | heise+ Expertentalk Spezial: Microsoft Flight Simulator 2024 mit Chefentwickler",
+            "description": "Der neue Flight Simulator ist seit dem 19. November 2024 da: Ein Tag nach dem Release stellen wir ab 18 Uhr live Ihre Fragen an Head Developer Jörg Neumann.",
+            "url": "https://www.heise.de/ratgeber/heise-Expertentalk-Spezial-Microsoft-Flight-Simulator-2024-mit-Chefentwickler-10044439.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/1/8/5/6/5/Thumbnail_Exp_MSFS_V9-6cd97584b14f780f.jpg",
+            "publishedAt": "2024-11-19T12:12:00Z",
+            "content": "Die Welt aus 10.000 Metern Höhe erkunden mit dem Microsoft Flight Simulator 2024 kein Problem. In einer Spezialausgabe unseres Live-Expertentalks für Abonnenten haben Sie die Möglichkeit, einen Tag n… [+896 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Malte Kirchner",
+            "title": "Final Cut Pro: Diese Woche wird mit einem Update gerechnet",
+            "description": "Bei Apples Videobearbeitungssoftware Final Cut Pro steht offenbar ein großes Update vor der Tür. Warum in dieser Woche mit einer Ankündigung gerechnet wird.",
+            "url": "https://www.heise.de/news/Final-Cut-Pro-Diese-Woche-wird-mit-einem-Update-gerechnet-10017182.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/7/9/2/1/fcp-95254e59969ec40a.png",
+            "publishedAt": "2024-11-11T14:20:00Z",
+            "content": "Erste Funktionen hat Apple bereits in Aussicht gestellt: In dieser Woche wird nun damit gerechnet, dass die nächste Version der Videobearbeitungssoftware Final Cut Pro konkret angekündigt wird. Der A… [+2403 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Malte Kirchner",
+            "title": "Grok soll groß herauskommen: Erste Tests mit kostenlosem KI-Zugang",
+            "description": "Das KI-Modell Grok, das von Elon Musks Firma xAI entwickelt wird, öffnet offenbar seine Bezahlschranke. Erste Tests laufen.",
+            "url": "https://www.heise.de/news/Grok-soll-gross-herauskommen-Erste-Tests-mit-kostenlosem-KI-Zugang-10029053.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/1/2/3/4/6/grok-teaser-b6bf03adb45f31cf.webp",
+            "publishedAt": "2024-11-12T15:16:00Z",
+            "content": "Bislang war der Zugriff auf den KI-Chatbot Grok eng an ein kostenpflichtiges Premium-Abonnement des sozialen Netzwerks X (ehemals Twitter) gebunden. Die KI wurde von den Betreibern als Mehrwert anges… [+1661 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Martin Holland",
+            "title": "Threads: Twitter-Alternative von Meta angeblich ab Januar mit Werbung",
+            "description": "Eigentlich sollte Threads werbefrei bleiben, bis dort eine Milliarde Menschen einen Account haben. Nun soll es angeblich doch schon im Januar losgehen.",
+            "url": "https://www.heise.de/news/Threads-Twitter-Alternative-von-Meta-angeblich-ab-Januar-mit-Werbung-10035593.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/1/5/0/2/8/shutterstock_2328036025-56b99fb3d99b3f0e.jpg",
+            "publishedAt": "2024-11-14T16:11:00Z",
+            "content": "Meta will schon ab Januar Werbung in Threads ausspielen und den Kurznachrichtendienst damit deutlich früher monetarisieren als nach der Eröffnung angekündigt. Das berichtet das US-Magazin The Informa… [+2009 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Holger Zelder",
+            "title": "heise+ | Türwächter: Schloss mit Apples HomeKey im Test",
+            "description": "Aqaras Smart Lock U200 öffnet und schließt Türen in Apple Home via HomeKey auf iPhone und Apple Watch. Wie funktioniert das in der Praxis?",
+            "url": "https://www.heise.de/tests/Tuerwaechter-Schloss-mit-Apples-HomeKey-im-Test-10028799.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/1/2/2/1/5/aqarau200-e977793a7f057f1e.png",
+            "publishedAt": "2024-11-18T16:30:00Z",
+            "content": "Inhaltsverzeichnis\r\nApple hat schon seit iOS 15 eine nützliche Funktion im Angebot: Mit HomeKey auf deutsch \"digitaler Schlüssel\" genannt soll man smarte Türschlösser per iPhone oder Apple Watch bequ… [+1104 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Detlef Borchers",
+            "title": "Zahlen, bitte! Telefonkonferenz mit 5100 Teilnehmern – vor über 100 Jahren",
+            "description": "Meeting mit 5100 Teilnehmern: Was heutzutage über das Netz für jeden möglich ist, war im Jahr 1916 eine Sensation und logistische Meisterleistung.",
+            "url": "https://www.heise.de/hintergrund/Zahlen-bitte-Telefonkonferenz-mit-5100-Teilnehmern-vor-ueber-100-Jahren-10055628.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/2/1/6/3/9/Overlay_Zahlenbitte_1_26_-c88059bc496e9de3.png",
+            "publishedAt": "2024-11-19T12:37:00Z",
+            "content": "Inhaltsverzeichnis\r\nDie erste telefonische Großkonferenz, die vom Umfang her an heutige Teams-Calls oder Clubhouse-Sessions erinnert, fand in einer Zeit statt, in der das Telefonat an sich schon eine… [+7099 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ilona Krause",
+            "title": "heise-Angebot: iX-Workshop IT-Grundschutz-Praktiker mit Zertifikat",
+            "description": "Erhalten Sie einen umfassenden Einblick in die Praxis der IT-Grundschutz-Methodik des BSI. Mit anschließender Prüfung und Zertifizierung.",
+            "url": "https://www.heise.de/news/iX-Workshop-IT-Grundschutz-Praktiker-mit-Zertifikat-10036089.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/1/5/2/7/9/IT-Grundschutz-Praktiker-Ticker-Header-16-9-a1ddb46c3d46ff95.jpg",
+            "publishedAt": "2024-11-19T07:00:00Z",
+            "content": "In den Unternehmen sind die Beauftragten bzw. die Fachkräfte für Informationssicherheit dafür verantwortlich, sichere IT-Konzepte zu entwickeln. Um sie bei dieser wichtigen Aufgabe zu unterstützen, s… [+1539 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Robin Harbort",
+            "title": "heise+ | Effizienter arbeiten mit Microsoft Copilot auf Mac und Windows",
+            "description": "KI erscheint vielen sehr komplex. Doch tatsächlich gibt es Angebote und Apps, die einen leichten Zugang ermöglichen. So arbeiten Sie mit Microsofts Copilot.",
+            "url": "https://www.heise.de/ratgeber/Effizienter-arbeiten-mit-Microsoft-Copilot-auf-Mac-und-Windows-10014362.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/6/8/1/3/mi_24_07_ims_microsoftcopilot_grunertm_midjourney_freepik_aufmacher_digital-5cd0a22ba87f3c65.jpg",
+            "publishedAt": "2024-11-13T09:30:00Z",
+            "content": "Inhaltsverzeichnis\r\nKI, also künstliche Intelligenz, ahmt menschliche Intelligenz nach, um etwa beim Erstellen von Texten und Bildern zu helfen und den Zeitaufwand für entsprechende Aufgaben zu verkü… [+1362 chars]"
+        }
+    ]
+}

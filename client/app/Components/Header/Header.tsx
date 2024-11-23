@@ -1,7 +1,7 @@
 import styles from "./Header.module.css"
 import Link from "next/link"
 
-export default function Header() {
+const Header: React.FC = () => {
     return(
         <div className={styles.header}>
             <Link href={"./home"}><h1 className={styles.typeName}>Insight Miner</h1></Link>
@@ -19,3 +19,5 @@ export default function Header() {
         </div>
     )
 }
+export default Header;
+

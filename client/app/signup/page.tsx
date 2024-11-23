@@ -1,5 +1,6 @@
 "use client"; // Ensure this file is treated as a Client Component
 
+import { NextPage } from "next";
 import { useState } from "react";
 import { useRouter } from "next/navigation"; // Change the router import to next/navigation
 import { createUserWithEmailAndPassword } from "firebase/auth";
@@ -7,7 +8,7 @@ import { auth } from "../firebase"; // Adjust the path based on your structure
 import Link from "next/link";
 import styles from "./signup.module.css";
 
-export default function Signup() {
+const SignUp: NextPage = () => {
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
     const [error, setError] = useState("");
@@ -54,3 +55,5 @@ export default function Signup() {
         </div>
     );
 }
+
+export default SignUp;

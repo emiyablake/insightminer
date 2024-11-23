@@ -1,12 +1,11 @@
 "use client";
-
+import { NextPage } from "next";
 import Header from "../Components/Header/Header"
 import Footer from "../Components/Footer/Footer"
 import styles from "./wordcloud.module.css"
 
 
-export default function wordcloud() {
-
+const WordCloud: NextPage = () => {
     return (
         <div>
             <Header />
@@ -18,3 +17,5 @@ export default function wordcloud() {
         </div>
     )
 }
+
+export default WordCloud;

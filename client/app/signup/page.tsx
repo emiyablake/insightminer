@@ -26,9 +26,8 @@ const SignUp: NextPage = () => {
         }
     };
     return (
-        <div>
-            <main className={styles.mainSignup}>
-                <form onSubmit={handleSignup} className={styles.formSignup}>
+        <div className={styles.mainSignup}>
+            <form onSubmit={handleSignup} className={styles.formSignup}>
                     <h2>Bem vindo!</h2>
                     <input
                         type="email"
@@ -51,7 +50,6 @@ const SignUp: NextPage = () => {
                         <Link href="/"> Voltar</Link>
                     </div>
                 </form>
-            </main>
         </div>
     );
 }

@@ -1,14 +1,3 @@
-.pageHome{
-    display: grid;
-    grid-template-rows: 20px 1fr 20px;
-    align-items: center;
-    justify-items: center;
-    min-height: 100svh;
-    padding: 80px;
-    gap: 64px;
-    font-family: var(--font-robo-flex);
-}
-
 .mainHome{
     grid-row-start: 2;
     display: flex;

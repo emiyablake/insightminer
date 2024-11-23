@@ -34,10 +34,8 @@ const WordCloud: NextPage = () => {
         { text: "Frontend", size: 30 },
     ]
     return (
-        <div>
-            <Header />
-            <main className={styles.mainHome}>
-                <section className={styles.sectionCloud}>
+        <div className={styles.mainHome}>
+            <section className={styles.sectionCloud}>
                     <h1>WordCloud</h1>
                     
                     <input type="text" />
@@ -45,8 +43,6 @@ const WordCloud: NextPage = () => {
                         <D3Cloud words={words} />
                     </div>
                 </section>
-            </main>
-            <Footer />
         </div>
     )
 }

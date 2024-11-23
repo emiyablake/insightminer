@@ -5,11 +5,11 @@ import Link from "next/link";
 
 export default function Home() {
     return (
-        <div>
+        <div className={styles.pages}>
             <Header />
             <main className={styles.mainHome}>
                 <div className={styles.userHome}>
-                    <h2>Bem vindo de volta José</h2>
+                    <h2>Bem vindo de volta</h2>
                     <p>O que você gostaria de fazer hoje?</p>
                     <nav className={styles.navHome}>
                         <button><Link href={"./wordcloud"}>Nuvem de palavras</Link></button>
@@ -27,6 +27,7 @@ export default function Home() {
                         <h3>Analise de uso do usuario</h3>
                         <p>qnts requisições que o usuario fez</p>
                         <p>Quantas palavras pesquisou</p>
+                        <p>coisarada</p>
                     </div>
                 </div>
 

@@ -1,11 +1,12 @@
 
 
 .header{
- display: flex;
- align-items: center;
- justify-content: space-between;
- padding: 50px;
- background-color:var(--blue);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px;
+    background-color:var(--blue);
+    font-family: var(--font-robo-flex);
 }
 
 .typeName{
@@ -13,8 +14,8 @@
 }
 
 .nav{
- display: flex;
- flex-direction: row;
- gap: 50px;
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
 
 }

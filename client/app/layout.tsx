@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import  { Josefin_Sans, Roboto_Flex } from "next/font/google";
 import { UserProvider } from "./context/userContext";
 import "./globals.css";
+import Header from "./Components/Header/Header";
+import Footer from "./Components/Footer/Footer";
 
 const joseSans = Josefin_Sans({
   weight: "variable",
@@ -28,7 +30,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${joseSans.variable} ${robotoFlex.variable} `}>
-        <UserProvider>{children}</UserProvider>
+        <div className="page">
+            <Header /> {/* Componente Header */}
+            <main>{children}</main> {/* O conteúdo da página vai aqui */}
+            <Footer /> {/* Componente Footer */}
+          </div>
       </body>
     </html>
   );

@@ -1,15 +1,11 @@
 import { NextPage } from "next";
-import Header from "../Components/Header/Header";
-import Footer from "../Components/Footer/Footer"
 import styles from "./home.module.css";
 import Link from "next/link";
 
 const Home: NextPage = () => {
     return (
-        <div className={styles.pages}>
-            <Header />
-            <main className={styles.mainHome}>
-                <div className={styles.userHome}>
+        <div className={styles.mainHome}>
+            <div className={styles.userHome}>
                     <h2>Bem vindo de volta</h2>
                     <p>O que você gostaria de fazer hoje?</p>
                     <nav className={styles.navHome}>
@@ -31,9 +27,6 @@ const Home: NextPage = () => {
                         <p>coisarada</p>
                     </div>
                 </div>
-
-            </main>
-            <Footer />
         </div>
     )
 }

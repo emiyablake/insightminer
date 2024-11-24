@@ -5,7 +5,9 @@ from typing import List
 from fastapi import HTTPException
 import requests
 
-import properties
+from server import properties
+
+# import properties # docker
 
 
 

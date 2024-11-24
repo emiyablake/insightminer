@@ -4,8 +4,11 @@ from typing import List, Dict
 from pymongo import MongoClient
 from bson.objectid import ObjectId
 
+from server import properties
+
 # from server import properties
-import properties
+# import properties # docker
+
 
 
 class MongoDB:

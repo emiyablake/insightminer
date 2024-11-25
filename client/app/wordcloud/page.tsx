@@ -44,18 +44,57 @@ const WordCloud: NextPage = () => {
             console.error("Formato de resposta inválido:", data);
             return;
           }
+
+          const stopWords = new Set([
+            "the", "is", "in", "and", "of", "to", "a", "it", "on", "this", "at", "as", "but",
+            "for", "with", "by", "an", "or", "be", "was", "are", "not", "that", "from", "have",
+            "has", "had", "he", "she", "they", "we", "you", "his", "her", "their", "its", 
+            "there", "here", "will", "would", "can", "could", "about", "some", "many", 
+            "also", "just", "like", "over", "now", "then", "place", "weekly", "may", "und"
+          ]);
+
+          // Limpeza e contagem de palavras
+          const cleanedWords = data.result
+          .filter((word: string) => {
+              // Normaliza para letras minúsculas
+              const normalizedWord = word.toLowerCase();
+
+              // Filtros de palavras irrelevantes
+              return (
+                  /^[a-zA-Z]+$/.test(normalizedWord) && // Apenas letras
+                  !stopWords.has(normalizedWord) && // Não está na lista de stop words
+                  normalizedWord.length > 2 // Ignora palavras muito curtas (ex: "it", "is")
+              );
+          })
+          .map((word: string) => word.toLowerCase()); // Normaliza para letras minúsculas
+
       
-          // Transforme os dados de 'result' no formato esperado para D3Cloud
-          const formattedWords: Word[] = data.result.map((word: string) => ({
-            text: word,
-            size: 10, // Define tamanhos fictícios para exibição (ajuste conforme necessário)
-          }));
-      
-          setWords(formattedWords); // Atualiza o estado com as palavras formatadas
-        } catch (err: any) {
-          setError(err.message || "Erro desconhecido.");
-        } finally {
-          setLoading(false);
+          // Conta a frequência de cada palavra
+        const wordFrequency: { [key: string]: number } = cleanedWords.reduce(
+          (acc: { [key: string]: number }, word: string) => {
+              acc[word] = (acc[word] || 0) + 1;
+              return acc;
+          },
+          {}
+      );
+
+      // Converte o objeto em um array de palavras com suas frequências
+      const wordArray = Object.entries(wordFrequency).map(([text, count]) => ({
+          text,
+          size: count, // Define o tamanho baseado na frequência
+      }));
+
+      // Ordena pelo tamanho (frequência) e limita a 30 palavras
+      const maxWords = 30;
+      const limitedWords = wordArray
+          .sort((a, b) => b.size - a.size) // Ordena de maior para menor frequência
+          .slice(0, maxWords);
+
+      setWords(limitedWords);
+    } catch (err: any) {
+            setError(err.message || "Erro desconhecido.");
+    } finally {
+            setLoading(false);
         }
     };
       
@@ -76,7 +115,7 @@ const WordCloud: NextPage = () => {
           <form onSubmit={handleSearch}>
             <input
               type="text"
-              placeholder="Insira a palavra-chave"
+              placeholder="Ex python"
               value={keyword}
               onChange={(e) => setKeyword(e.target.value)}
             />
@@ -91,7 +130,7 @@ const WordCloud: NextPage = () => {
             {words.length > 0 ? (
               <D3Cloud words={words} />
             ) : (
-              <p>Insira uma palavra-chave para gerar a nuvem de palavras.</p>
+              <p className={styles.pCloud}>Insira uma palavra-chave para gerar a nuvem de palavras.</p>
             )}
           </div>
         </section>

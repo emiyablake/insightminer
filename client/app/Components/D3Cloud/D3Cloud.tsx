@@ -10,8 +10,8 @@ interface Word {
 }
 
 const customColors = [
-  "#FF5733", "#33FF57", "#3357FF", "#FF33A6", "#FF8C00",
-  "#8CFF00", "#00FF8C", "#FF0033", "#FF57FF", "#57FF33"
+  "#ffa43a", "#759eff", "#75c7ff", "#f86f6f", "#00c6ab",
+  "#3f8880", "#9b207a", "#ee3d42", "#c34457", "#6f33d3"
 ];
 
 const D3Cloud = ({ words }: { words: Word[] }) => {
@@ -22,8 +22,8 @@ const D3Cloud = ({ words }: { words: Word[] }) => {
     if (!svgElement) return; // Verifique se svgRef.current não é nulo
 
     const svg = d3.select(svgElement);
-    const width = 500;
-    const height = 300;
+    const width = 600;
+    const height = 400;
 
     // Limpa renderizações anteriores
     svg.selectAll('*').remove();
@@ -36,7 +36,7 @@ const D3Cloud = ({ words }: { words: Word[] }) => {
           size: word.size,
         }))
       )
-      .padding(5)
+      .padding(10)
       .rotate(() => (Math.random() > 0.5 ? 90 : 0))
       .fontSize((d: any) => (d.size ? d.size : 10))
       .on('end', (renderedWords) => {

@@ -10,14 +10,15 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 100px;
-    gap: 30px;
+    padding: 50px;
+    gap: 15px;
+    font-family: var(--font-robo-flex);
 }
 
 .divCloud{
     display: flex;
     border-radius: 5px;
     background-color:var(--varWhite);
-    padding: 20px;
+    padding: 15px;
 }
 

@@ -90,12 +90,16 @@ const WordCloud: NextPage = () => {
           .sort((a, b) => b.size - a.size) // Ordena de maior para menor frequência
           .slice(0, maxWords);
 
-      setWords(limitedWords);
+      if (limitedWords.length === 0) {
+        setError("Nenhum resultado encontrado para a palavra-chave inserida.");
+      } else {
+          setWords(limitedWords);
+      }
     } catch (err: any) {
-            setError(err.message || "Erro desconhecido.");
+        setError(err.message || "Erro desconhecido.");
     } finally {
-            setLoading(false);
-        }
+        setLoading(false);
+    }
     };
       
   
@@ -124,11 +128,11 @@ const WordCloud: NextPage = () => {
             </button>
           </form>
   
-          {error && <p className={styles.error}>{error}</p>}
-  
           <div className={styles.divCloud}>
             {words.length > 0 ? (
               <D3Cloud words={words} />
+            ) : error ? (
+              <p className={styles.pError}>{error}</p>
             ) : (
               <p className={styles.pCloud}>Insira uma palavra-chave para gerar a nuvem de palavras.</p>
             )}

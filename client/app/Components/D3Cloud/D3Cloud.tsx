@@ -22,8 +22,8 @@ const D3Cloud = ({ words }: { words: Word[] }) => {
     if (!svgElement) return; // Verifique se svgRef.current não é nulo
 
     const svg = d3.select(svgElement);
-    const width = 500;
-    const height = 300;
+    const width = 600;
+    const height = 400;
 
     // Limpa renderizações anteriores
     svg.selectAll('*').remove();
@@ -36,7 +36,7 @@ const D3Cloud = ({ words }: { words: Word[] }) => {
           size: word.size,
         }))
       )
-      .padding(5)
+      .padding(10)
       .rotate(() => (Math.random() > 0.5 ? 90 : 0))
       .fontSize((d: any) => (d.size ? d.size : 10))
       .on('end', (renderedWords) => {

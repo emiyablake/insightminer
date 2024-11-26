@@ -2,17 +2,18 @@ import { NextPage } from "next";
 import styles from "./home.module.css";
 import Link from "next/link";
 
+
 const Home: NextPage = () => {
     return (
         <div className={styles.mainHome}>
+
             <div className={styles.userHome}>
                     <h2>Bem vindo de volta</h2>
                     <p>O que você gostaria de fazer hoje?</p>
                     <nav className={styles.navHome}>
                         <button><Link href={"./wordcloud"}>Nuvem de palavras</Link></button>
+                        <button><Link href={"./managerWordkey"}>Gerenciador de palavras chave</Link></button>
                         <button><Link href={"./userProfile"}>Perfil do usuario</Link></button>
-                        <button>Gerenciar palavras chave</button>
-                        <button>Gerenciar acessos</button>
                     </nav>
                 </div>
                 <div className={styles.dashHome}>

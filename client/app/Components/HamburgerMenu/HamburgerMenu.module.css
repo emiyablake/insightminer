@@ -1,0 +1,39 @@
+.menuBurgue {
+    position: relative;
+    background-color: var(--blue);
+    border-radius: 5px;
+  }
+  
+  .burgue {
+    font-size: 24px;
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .navBurgue {
+    display: none;
+    position: absolute;
+    top: 40px;
+    left: 0;
+    background-color: var(--blue);
+    width: 300px;
+    padding: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    transform: translateY(-10px);
+    opacity: 0;
+  }
+  
+  .navBurgue.open {
+    display: block;
+    transform: translateY(0);
+    opacity: 1;
+  }
+  
+.styleNav{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}

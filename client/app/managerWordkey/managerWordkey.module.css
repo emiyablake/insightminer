@@ -20,13 +20,13 @@
 }
 
 .tableManager th, .tableManager td {
-    border: 1px solid var(--blue);
+    border: 1px solid var(--varGray);
     padding: 8px;
     background-color: var(--white);
     color:black;
 }
 
 .tableManager th {
-    background-color: var(--blue);
+    background-color: var(--varGray);
     color: white;
 }

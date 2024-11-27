@@ -1,0 +1,18 @@
+.mainProfile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+    gap: 15px   ;
+}
+
+.divProfile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.label {
+    
+}

@@ -5,8 +5,7 @@
     text-align: center;
     padding: 20px;
     background-color: var(--blue);
-
-
+    font-family: var(--font-robo-flex);
 }
 
 .ulFooter{

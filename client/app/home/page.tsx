@@ -1,37 +1,53 @@
-import Header from "../Components/Header/Header";
-import Footer from "../Components/Footer/Footer"
+import { NextPage } from "next";
 import styles from "./home.module.css";
 import Link from "next/link";
 
-export default function Home() {
+
+const Home: NextPage = () => {
     return (
-        <div>
-            <Header />
-            <main className={styles.mainHome}>
-                <div className={styles.userHome}>
-                    <h2>Bem vindo de volta José</h2>
+        <div className={styles.mainHome}>
+
+            <div className={styles.userHome}>
+                    <h2>Bem vindo de volta</h2>
                     <p>O que você gostaria de fazer hoje?</p>
                     <nav className={styles.navHome}>
                         <button><Link href={"./wordcloud"}>Nuvem de palavras</Link></button>
+                        <button><Link href={"./managerWordkey"}>Gerenciador de palavras chave</Link></button>
                         <button><Link href={"./userProfile"}>Perfil do usuario</Link></button>
-                        <button>Gerenciar palavras chave</button>
-                        <button>Gerenciar acessos</button>
                     </nav>
                 </div>
                 <div className={styles.dashHome}>
-                    {/*Criar componente que analisa e transforma em dash 
-                    → qnts requisições que o usuario fez 
-                    → palavra mais pesquisada
-                    → horas ativo?*/}
-                    <div className={styles.infodash}>
-                        <h3>Analise de uso do usuario</h3>
-                        <p>qnts requisições que o usuario fez</p>
-                        <p>Quantas palavras pesquisou</p>
-                    </div>
+                <h3></h3>
+                <div className={styles.infodash}>
+                    <table className={styles.tableDash}>
+                        <thead>
+                            <tr>
+                                <th>Análise de Uso do Usuário</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Requisições realizadas</td>
+                                <td>45</td>
+                            </tr>
+                            <tr>
+                                <td>Palavras pesquisadas</td>
+                                <td>30</td>
+                            </tr>
+                            <tr>
+                                <td>Horas ativo</td>
+                                <td>5h 23m</td>
+                            </tr>
+                            <tr>
+                                <td>Palavra mais pesquisada</td>
+                                <td>Python</td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
-
-            </main>
-            <Footer />
+            </div>
         </div>
     )
 }
+export default Home;

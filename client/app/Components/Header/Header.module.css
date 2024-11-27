@@ -1,20 +1,24 @@
-
-
 .header{
- display: flex;
- align-items: center;
- justify-content: space-between;
- padding: 50px;
- background-color:var(--blue);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px;
+    background-color:var(--blue);
+    font-family: var(--font-robo-flex);
 }
 
 .typeName{
     font-family: var(--font-jose-sans);
 }
 
-.nav{
- display: flex;
- flex-direction: row;
- gap: 50px;
+.divHeader {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
 
+.nav{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
 }

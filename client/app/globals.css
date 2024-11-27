@@ -6,6 +6,12 @@
   --varGray: #6e6e6e;
   --background: #ffffff;
   --foreground: #171717;
+
+  --button-primary: #6e6e6e;
+  --button-hover: #8c8c8c;  
+  --button-pressed: #4f4f4f; 
+  --button-text: #ffffff;   
+  --button-border-radius: 2px; 
 }
 
 @media (prefers-color-scheme: dark) {
@@ -45,7 +51,32 @@ a {
 }
 
 button {
-  padding: 10px;
+  background-color: var(--button-primary);
+  color: var(--button-text);
+  border: none;
+  border-radius: var(--button-border-radius);
+  padding: 10px 20px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+button:hover {
+  background-color: var(--button-hover);
+}
+
+button:active {
+  background-color: var(--button-pressed);
+  transform: scale(0.95); /* Adiciona um efeito de clique */
+}
+
+button:disabled {
+  background-color: #cccccc;
+  color: #666666;
+  cursor: not-allowed;
+  box-shadow: none;
 }
 
 input {

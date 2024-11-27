@@ -12,7 +12,7 @@ interface WordData {
     executionTime: number;
 }
 
-const managerWordkey: NextPage = () => {
+const ManagerWordkey: NextPage = () => {
     const [words, setWords] = useState<WordData[]>([]);
     const [newWord, setNewWord] = useState<string>('');
 
@@ -95,4 +95,4 @@ const managerWordkey: NextPage = () => {
     );
 }
 
-export default managerWordkey;
+export default ManagerWordkey;

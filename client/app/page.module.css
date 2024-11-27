@@ -21,7 +21,7 @@
 .divButton{
   display: flex;
   flex-direction: column;
-  padding: 50px;
+  padding: 25px;
   gap: 15px;
 }
 

@@ -24,7 +24,7 @@ body {
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Josefin Sans;
+  font-family: var(--font-robo-flex);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   display: flex;
@@ -61,7 +61,6 @@ input {
 
 header {
   grid-row: 1;
-  width: 100%;
 }
 
 main {

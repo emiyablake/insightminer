@@ -32,7 +32,8 @@ export default function RootLayout({
       <body className={`${joseSans.variable} ${robotoFlex.variable} `}>
         <div className="page">
             <Header /> {/* Componente Header */}
-            <main>{children}</main> {/* O conteúdo da página vai aqui */}
+            <main>
+              {children}</main> {/* O conteúdo da página vai aqui */}
             <Footer /> {/* Componente Footer */}
           </div>
       </body>

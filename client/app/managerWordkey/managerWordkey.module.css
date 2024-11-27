@@ -1,0 +1,33 @@
+.mainManager {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    font-family: var(--font-robo-flex);
+}
+
+.divManager{
+    padding: 20px;
+}
+
+.tableManager {
+    border-radius: 5px;
+    border: 1px solid var(--blue);
+    border-collapse: collapse;
+    color: var(--blue);
+    font-weight: 100;
+    background-color:var(--varWhite);
+}
+
+.thManager {
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid var(--blue);
+}
+
+.tdManager {
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid var(--blue);
+}

@@ -50,7 +50,8 @@ const WordCloud: NextPage = () => {
             "for", "with", "by", "an", "or", "be", "was", "are", "not", "that", "from", "have",
             "has", "had", "he", "she", "they", "we", "you", "his", "her", "their", "its", 
             "there", "here", "will", "would", "can", "could", "about", "some", "many", 
-            "also", "just", "like", "over", "now", "then", "place", "weekly", "may", "und"
+            "also", "just", "like", "over", "now", "then", "place", "weekly", "may", 
+            "und", "chars", 
           ]);
 
           // Limpeza e contagem de palavras

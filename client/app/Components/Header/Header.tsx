@@ -5,7 +5,7 @@ import HamburgerMenu from "../HamburgerMenu/HamburgerMenu"
 const Header: React.FC = () => {
     return(
         <div className={styles.header}>
-            <div className={styles.}>
+            <div className={styles.divHeader}>
                 <HamburgerMenu />
                 <Link href={"./home"}><h1 className={styles.typeName}>Insight Miner</h1></Link>
             </div>

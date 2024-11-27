@@ -17,17 +17,36 @@ const Home: NextPage = () => {
                     </nav>
                 </div>
                 <div className={styles.dashHome}>
-                    {/*Criar componente que analisa e transforma em dash 
-                    → qnts requisições que o usuario fez 
-                    → palavra mais pesquisada
-                    → horas ativo?*/}
-                    <div className={styles.infodash}>
-                        <h3>Analise de uso do usuario</h3>
-                        <p>qnts requisições que o usuario fez</p>
-                        <p>Quantas palavras pesquisou</p>
-                        <p>coisarada</p>
-                    </div>
+                <h3></h3>
+                <div className={styles.infodash}>
+                    <table className={styles.tableDash}>
+                        <thead>
+                            <tr>
+                                <th>Análise de Uso do Usuário</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Requisições realizadas</td>
+                                <td>45</td>
+                            </tr>
+                            <tr>
+                                <td>Palavras pesquisadas</td>
+                                <td>30</td>
+                            </tr>
+                            <tr>
+                                <td>Horas ativo</td>
+                                <td>5h 23m</td>
+                            </tr>
+                            <tr>
+                                <td>Palavra mais pesquisada</td>
+                                <td>Python</td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
+            </div>
         </div>
     )
 }

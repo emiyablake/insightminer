@@ -4,7 +4,7 @@ const Footer: React.FC = () => {
     return(
         <div className={styles.footer}>
             
-            <h3>All rights reserved</h3>
+            <p>All rights reserved</p>
             <div>
                 <h4>Analise e Desenvolvimento de Sistemas</h4>
                 <h5>4ª Fase | Projeto Multidisciplinar integrador </h5>

@@ -11,6 +11,12 @@
     font-family: var(--font-jose-sans);
 }
 
+.divHeader {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
 .nav{
     display: flex;
     flex-direction: row;

@@ -1,5 +1,4 @@
 .mainHome{
-    grid-row-start: 2;
     display: flex;
     align-items: center;
     gap: 50px;
@@ -11,7 +10,7 @@
     display: flex;
     flex-direction: column;
     gap: 20px;
-    border: 1px solid purple;
+    /*border: 1px solid purple;*/
     padding: 15px;
     color: var(--blue);
 }
@@ -27,16 +26,28 @@
     display: flex;
     flex-direction: column;
     padding: 20px;
-    width: 900px;
-    border-radius: 5px;
-    background-color: gray;
+    width: 800px;
+
 }
 
-.infodash{
-    border: 1px solid purple;
-    padding: 15px;
+
+.tableDash {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 16px;
+    text-align: left;
 }
 
-.footerHome{
-    grid-row-start: 3;
+.tableDash th, .tableDash td {
+    border: 1px solid var(--varGray);
+    padding: 8px;
+    background-color: var(--white);
+    color:black;
+}
+
+.tableDash th {
+    background-color: var(--varGray);
+    color: white;
+
 }

@@ -12,22 +12,21 @@
 }
 
 .tableManager {
-    border-radius: 5px;
-    border: 1px solid var(--blue);
     border-collapse: collapse;
-    color: var(--blue);
-    font-weight: 100;
-    background-color:var(--varWhite);
+    border-radius: 5px;
+    margin: 20px 0;
+    font-size: 16px;
+    text-align: left;
 }
 
-.thManager {
-    border-radius: 5px;
-    padding: 10px;
+.tableManager th, .tableManager td {
     border: 1px solid var(--blue);
+    padding: 8px;
+    background-color: var(--white);
+    color:black;
 }
 
-.tdManager {
-    border-radius: 5px;
-    padding: 10px;
-    border: 1px solid var(--blue);
+.tableManager th {
+    background-color: var(--blue);
+    color: white;
 }

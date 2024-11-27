@@ -84,9 +84,9 @@ const managerWordkey: NextPage = () => {
                 <tbody>
                     {words.map((wordData, index) => (
                     <tr key={index}>
-                        <td className={styles.tdManager}>{wordData.searchWord}</td>
-                        <td className={styles.tdManager}>{wordData.documentsInserted}</td>
-                        <td className={styles.tdManager}>{wordData.executionTime}(s)</td>
+                        <td >{wordData.searchWord}</td>
+                        <td >{wordData.documentsInserted}</td>
+                        <td >{wordData.executionTime}(s)</td>
                     </tr>
                     ))}
                 </tbody>

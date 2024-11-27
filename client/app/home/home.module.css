@@ -9,7 +9,7 @@
 .userHome{
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 10px;
     /*border: 1px solid purple;*/
     padding: 15px;
     color: var(--blue);

@@ -12,12 +12,6 @@ const Header: React.FC = () => {
             <nav className={styles.nav}>
                 <a target="blank" href="https://github.com/emiyablake/insightminer/blob/main/README.md">Sobre</a>
                 <a href="">Contato</a>
-                {/*
-                <ul>
-                    <li><a href="">Sobre</a></li>
-                    <li><a href="">Contato</a></li>
-                </ul>
-                */}
                 
             </nav>
         </div>

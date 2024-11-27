@@ -12,9 +12,9 @@ const Footer: React.FC = () => {
             <nav>
                 
                 <ul className={styles.ulFooter}>
-                    <li><a href="">Mara Júlia Ávila</a> | <a href="">Gabriel Ratão</a></li>
+                    <li><a target="blank" href="https://github.com/emiyablake">Mara Júlia Ávila</a> | <a target="blank" href="https://github.com/gabrielratao">Gabriel Ratão</a></li>
                     <li></li>
-                    <li><a href="">UNICESUSC</a></li>
+                    <li><a target="blank" href="https://cesusc.edu.br">UNICESUSC</a></li>
                 </ul>
             </nav>
         </div>

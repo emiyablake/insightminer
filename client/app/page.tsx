@@ -7,7 +7,7 @@ export default function Home() {
     <div className={styles.main}>
       <h1>Seja bem vindo</h1>
       <div className={styles.divButton}>
-        <p>O que você gostaria de fazer?</p>
+        <p>Faça login ou crie uma conta!</p>
         <button > <Link href={"/home"}>Home</Link></button>
         <button > <Link href={"/login"}>Log in</Link></button>
         <button > <Link href={"/signup"}>Sign up</Link></button>
